@@ -1,29 +1,71 @@
-[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
-![](https://github.com/sammygfish/capstoneproject/workflows/CI/badge.svg) 
-![](https://github.com/sammygfish/capstoneproject/workflows/GH-Pages%20Status/badge.svg) 
-[![](https://img.shields.io/static/v1?label=fastai&message=fastpages&color=57aeac&labelColor=black&style=flat&logo=data:image/png;base64,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)](https://github.com/fastai/fastpages)
+# My Capstone Site
 
 https://sammygfish.github.io/capstoneproject/
 
-# My Blog
+## Project Introduction
+
+This project is aimed at music funds or any other music copyright exploiter (including songwriters) hoping to refine their process for categorising songs into genres or categories, that in turn drive value.
+
+## Notebooks:
+1. Loading, Cleaning and EDA
+2. Preprocessing
+3. Modeling - Supervised Learning Pipelines
+4. Modeling -  Unsupervised Learning, Clustering
+5. Findings - Project Summarisation
+
+6.a. Appendix Notebook First Pass Data Investigation and Cleaning
+6.b. Appendix Notebook First Pass Feature Selection and Data Transformation
+6.c. Appendix Notebook First Pass Unsupervised Learning - Clustering
+6.d. - Appendix Notebook - Aborted Spotify API Data
+6.e . Appendix Notebook - Discarded Dataset Investigation - Increase and Diversify Datapoints
+capstone_functions
 
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+**Business Question**
+Can we predict a song's popularity (and therefore value) based on its attributes
 
+This is a limited measurement without access to more granular information such as geographical consumption metrics, social media penetration, etc.
 
-## What To Do Next?
+We will work on a starter model focusing initially on song attribute clustering and genre analysis with a view to further development in the future to layer on value metrics, given access to the more granular information mentioned above and below.
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+**Creating a tool that can classify any given song into a genre or attribute-based cluster is a good first step in this direction. Which leads us to the Machine Learning Question:**
 
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+**Machine Learning Question**
+Can we derive song FEATURE PROFILES (by inspecting the song's audio attributes derived by Spotify) and ascribe VALUE to individual song features or FEATURE PROFILES
 
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
+Often, songs are given a genre subjectively by music managers' opinion or songs carry genres from the Artists' genre identity, Developing an in-house model for categorising genre based on attributes, then layering on a popularity or value measure, can be of value particularly when tailored for use alongside private data held by the song copyright owners.
 
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
+- [The dataset is here](https://www.kaggle.com/datasets/maltegrosse/8-m-spotify-tracks-genre-audio-features)
 
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
-
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+## Environment
+See requierments.txt - this project can be run on a base anaconda environment with the following additional installations:
+# $ conda create -n capstone python=3.8 numpy pandas matplotlib seaborn jupyter requests scipy lxml
+# $pip install xgboost==1.1.1
+# $pip install qgrid
+# $pip install pivottablejs
+# $conda install -c conda-forge spotipy
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.9
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda
+  - anaconda-navigator==2.2.0
+  - navigator-updater
+  - selenium
+  - pytesseract=0.3.7
+  - jupyter
+  - joblib
+  - pandasgui
+  - pyqt5-sip
+  - pyqtwebengine
+  - spotipy
+(base)

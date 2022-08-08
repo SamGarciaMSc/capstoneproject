@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create -n capstone python=3.8 numpy pandas matplotlib seaborn jupyter requests scipy lxml
+# $pip install xgboost==1.1.1
+# $pip install qgrid
+# $pip install pivottablejs
+# $conda install -c conda-forge spotipy

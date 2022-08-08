@@ -1,0 +1,5490 @@
+,genre_id,genre_group
+0,detroit hip hop,rap/hiphop
+1,g funk,funk
+2,gangster rap,rap/hiphop
+3,hardcore hip hop,rap/hiphop
+4,hip hop,rap/hiphop
+5,pop rap,delete
+6,rap,rap/hiphop
+7,west coast rap,rap/hiphop
+8,hip pop,rap/hiphop
+9,turntablism,rap/hiphop
+10,east coast hip hop,rap/hiphop
+11,queens hip hop,rap/hiphop
+12,conscious hip hop,rap/hiphop
+13,old school hip hop,rap/hiphop
+14,southern hip hop,rap/hiphop
+15,trap,trap
+16,electro,electro
+17,rap rock,rock
+18,alternative hip hop,rap/hiphop
+19,cali rap,rap/hiphop
+20,atl hip hop,rap/hiphop
+21,dance pop,dance
+22,dirty south rap,rap/hiphop
+23,contemporary jazz,jazz
+24,cool jazz,jazz
+25,ecm-style jazz,jazz
+26,jazz,jazz
+27,jazz fusion,jazz
+28,jazz trio,delete
+29,background jazz,jazz
+30,bebop,delete
+31,contemporary post-bop,delete
+32,hard bop,delete
+33,soul jazz,jazz
+34,stride,jazz
+35,vocal jazz,jazz
+36,dinner jazz,jazz
+37,danish modern jazz,delete
+38,harlem renaissance,delete
+39,traditional blues,blues
+40,blues,blues
+41,circuit,delete
+42,tango,ballroom
+43,vintage tango,ballroom
+44,electro trash,electro
+45,bouzouki,delete
+46,rebetiko,delete
+47,adult standards,delete
+48,big band,delete
+49,easy listening,delete
+50,lounge,delete
+51,swing,ballroom
+52,vintage chanson,delete
+53,cabaret,delete
+54,vintage hollywood,delete
+55,ghoststep,delete
+56,greek clarinet,delete
+57,french hip hop,delete
+58,torch song,delete
+59,classical,classical
+60,post-romantic era,classical
+61,russian romanticism,delete
+62,ukrainian classical,delete
+63,classical performance,classical
+64,opera,delete
+65,orchestral performance,classical
+66,german orchestra,delete
+67,orchestra,classical
+68,ilahiler,delete
+69,sufi chant,delete
+70,american classical piano,delete
+71,early modern classical,classical
+72,french romanticism,delete
+73,historic orchestral performance,classical
+74,irish ballad,delete
+75,irish folk,folk
+76,vintage classical singing,delete
+77,javanese gamelan,delete
+78,italian romanticism,delete
+79,classical era,classical
+80,russian orchestra,delete
+81,early romantic era,classical
+82,german romanticism,delete
+83,classical piano,delete
+84,russian classical piano,delete
+85,italian opera,delete
+86,british classical piano,delete
+87,british orchestra,delete
+88,turkish classical,delete
+89,turkish jazz,delete
+90,classical cello,delete
+91,hungarian classical performance,delete
+92,french opera,delete
+93,impressionism,delete
+94,neoclassicism,classical
+95,israeli classical piano,delete
+96,late romantic era,classical
+97,jazz blues,jazz
+98,dixieland,jazz
+99,jazz trumpet,jazz
+100,new orleans jazz,jazz
+101,soul,soul
+102,boogie-woogie,delete
+103,jazz piano,jazz
+104,vintage jazz,jazz
+105,appalachian folk,folk
+106,bluegrass,delete
+107,folk,folk
+108,old-time,delete
+109,traditional country,delete
+110,traditional folk,folk
+111,yodeling,delete
+112,pre-war blues,delete
+113,vintage swing,delete
+114,tin pan alley,delete
+115,jazz saxophone,jazz
+116,baroque,classical
+117,early music,delete
+118,german baroque,delete
+119,african-american classical,delete
+120,gospel,gospel
+121,spirituals,delete
+122,jazz trombone,jazz
+123,louisiana blues,blues
+124,new orleans blues,blues
+125,ragtime,delete
+126,brill building pop,delete
+127,vocal harmony group,delete
+128,jazz clarinet,jazz
+129,vaudeville,delete
+130,portland hip hop,rap/hiphop
+131,movie tunes,delete
+132,vintage country folk,folk
+133,american modern classical,classical
+134,brass ensemble,delete
+135,italian tenor,delete
+136,jazz guitar,jazz
+137,american folk revival,folk
+138,banjo,delete
+139,musica tradicional cubana,delete
+140,son cubano,delete
+141,son cubano clasico,delete
+142,german opera,delete
+143,acoustic blues,blues
+144,country blues,blues
+145,memphis blues,blues
+146,hardcore punk,rock
+147,children's choir,delete
+148,german choir,delete
+149,classical organ,delete
+150,vintage schlager,delete
+151,gospel blues,blues
+152,texas blues,blues
+153,barrelhouse piano,delete
+154,piano blues,delete
+155,polish classical,delete
+156,polish classical piano,delete
+157,country gospel,gospel
+158,vintage old-time,delete
+159,jazz quartet,jazz
+160,jug band,delete
+161,space age pop,delete
+162,broadway,delete
+163,show tunes,delete
+164,delta blues,blues
+165,piedmont blues,blues
+166,orquesta tipica,delete
+167,psychedelic rock,rock
+168,british modern classical,classical
+169,light music,delete
+170,russian modern classical,delete
+171,string band,delete
+172,western swing,delete
+173,british dance band,delete
+174,classical tenor,delete
+175,historic classical performance,classical
+176,operetta,delete
+177,tango cancion,ballroom
+178,deep adult standards,delete
+179,calypso,delete
+180,latin classical,delete
+181,nueva cancion,delete
+182,chicago blues,blues
+183,electric blues,blues
+184,bahamian folk,folk
+185,velha guarda,delete
+186,norsk lovsang,delete
+187,pagode,delete
+188,samba,ballroom
+189,choro,delete
+190,chill guitar,delete
+191,classical guitar,delete
+192,guitarra clasica,delete
+193,spanish classical,delete
+194,laiko,delete
+195,copla,delete
+196,classic colombian pop,delete
+197,spanish baroque,delete
+198,greek indie,delete
+199,bandoneon,delete
+200,clawhammer banjo,delete
+201,hindustani vocal,delete
+202,indian classical,delete
+203,classic soundtrack,delete
+204,arab folk,folk
+205,belly dance,delete
+206,classic arab pop,delete
+207,hindustani classical,delete
+208,historic piano performance,delete
+209,honky-tonk piano,delete
+210,vintage italian pop,delete
+211,mantra,delete
+212,classic italian pop,delete
+213,swing italiano,delete
+214,canzone napoletana,delete
+215,classic italian folk pop,folk
+216,violin,delete
+217,celtic,delete
+218,celtic punk,delete
+219,celtic rock,delete
+220,folk punk,folk
+221,punk,rock
+222,classic uk pop,pop
+223,dance rock,delete
+224,new wave pop,pop
+225,french classical piano,delete
+226,french orchestra,delete
+227,avant-garde,delete
+228,french soundtrack,delete
+229,swedish alternative rock,delete
+230,c86,delete
+231,tape club,delete
+232,american orchestra,delete
+233,austrian orchestra,delete
+234,bhajan,delete
+235,bakersfield sound,delete
+236,cowboy western,delete
+237,jazz drums,jazz
+238,bluegrass gospel,gospel
+239,instrumental bluegrass,delete
+240,progressive bluegrass,delete
+241,cumbia ecuatoriana,delete
+242,folklore ecuatoriano,folk
+243,french jazz,delete
+244,gypsy jazz,delete
+245,string quartet,classical
+246,romanian rock,delete
+247,hoerspiel,delete
+248,classical mezzo-soprano,delete
+249,blues rock,delete
+250,jump blues,blues
+251,guidance,delete
+252,motivation,delete
+253,kleine hoerspiel,delete
+254,reading,delete
+255,country rock,country
+256,modern blues,blues
+257,classic soul,soul
+258,memphis soul,soul
+259,southern soul,soul
+260,acousmatic,delete
+261,exotica,delete
+262,experimental,delete
+263,laboratorio,delete
+264,moog,delete
+265,idol,delete
+266,country boogie,delete
+267,classic bollywood,delete
+268,desi pop,pop
+269,filmi,delete
+270,sufi,delete
+271,ghazal,delete
+272,german oi,delete
+273,german punk,delete
+274,classic country pop,pop
+275,country,country
+276,nashville sound,country
+277,outlaw country,country
+278,singer-songwriter,delete
+279,texas country,country
+280,classic rock,rock
+281,folk rock,delete
+282,mellow gold,delete
+283,piano rock,delete
+284,roots rock,delete
+285,soft rock,rock
+286,southern rock,rock
+287,swamp rock,rock
+288,arkansas country,country
+289,rock-and-roll,rock
+290,oklahoma country,country
+291,classical bass,delete
+292,radio symphony,delete
+293,classical baritone,delete
+294,carnatic,delete
+295,bubblegum pop,pop
+296,disco,disco
+297,quiet storm,delete
+298,yacht rock,delete
+299,deep indian pop,delete
+300,harmonica blues,blues
+301,victorian britain,delete
+302,vintage finnish jazz,delete
+303,hollywood,delete
+304,edm,edm
+305,progressive house,edm
+306,progressive trance,edm
+307,progressive trance house,edm
+308,trance,edm
+309,uplifting trance,edm
+310,art rock,delete
+311,melancholia,delete
+312,new romantic,pop
+313,new wave,pop
+314,scottish new wave,delete
+315,sophisti-pop,pop
+316,synthpop,pop
+317,otacore,delete
+318,modern swing,delete
+319,c-pop,asian pop
+320,vintage chinese pop,asian pop
+321,mento,delete
+322,music hall,delete
+323,czech classical,delete
+324,opera chorus,delete
+325,mollywood,delete
+326,cello,delete
+327,cha-cha-cha,ballroom
+328,cuban rumba,ballroom
+329,latin jazz,ballroom
+330,mambo,ballroom
+331,modern bollywood,delete
+332,french baroque,delete
+333,latin american classical piano,delete
+334,comic,delete
+335,bansuri,delete
+336,classic pakistani pop,delete
+337,new age piano,delete
+338,flamenco,ballroom
+339,rumba,ballroom
+340,classic schlager,delete
+341,rabindra sangeet,delete
+342,italian adult pop,delete
+343,ye ye,delete
+344,jazz violin,jazz
+345,spytrack,delete
+346,funk,funk
+347,motown,rnb
+348,german classical piano,delete
+349,bangla,delete
+350,chutney,delete
+351,cook islands pop,delete
+352,oud,delete
+353,syrian pop,delete
+354,sleep,delete
+355,pakistani pop,delete
+356,free jazz,jazz
+357,austrian classical piano,delete
+358,finnish classical,delete
+359,gujarati garba,delete
+360,italian mezzo-soprano,delete
+361,classical soprano,delete
+362,italian soprano,delete
+363,italian bass,delete
+364,canzone genovese,delete
+365,czech classical piano,delete
+366,klezmer,delete
+367,russian folk,folk
+368,dhrupad,delete
+369,indian instrumental,delete
+370,danish classical,delete
+371,tamil worship,delete
+372,norwegian classical,delete
+373,swiss classical piano,delete
+374,austrian choir,delete
+375,theme,delete
+376,violao,delete
+377,tamil pop,delete
+378,sambass,delete
+379,bluegrass fiddle,delete
+380,italian baroque,delete
+381,a cappella,delete
+382,british soundtrack,delete
+383,scorecore,delete
+384,soundtrack,delete
+385,spanish rockabilly,delete
+386,vintage taiwan pop,delete
+387,operatic pop,delete
+388,ballroom,ballroom
+389,arab pop,delete
+390,lebanese pop,delete
+391,nuevo tango,ballroom
+392,english baroque,delete
+393,theremin,delete
+394,library music,delete
+395,rockabilly,delete
+396,polka,ballroom
+397,country dawn,country
+398,country road,country
+399,redneck,country
+400,deep contemporary country,country
+401,rock,rock
+402,honky tonk,rock
+403,italian orchestra,delete
+404,classic mandopop,delete
+405,finnish contemporary classical,delete
+406,nordic contemporary classical,delete
+407,historic string quartet,classical
+408,soul blues,blues
+409,carnatic instrumental,delete
+410,bolero,delete
+411,bolero mexicano,delete
+412,gospel antigas,gospel
+413,chanson,delete
+414,classic peruvian pop,delete
+415,hindustani instrumental,delete
+416,tabla,delete
+417,japanese classical performance,delete
+418,early avant garde,delete
+419,novelty,delete
+420,mariachi,delete
+421,ranchera,delete
+422,mexican rock-and-roll,delete
+423,art song,delete
+424,contemporary country,country
+425,modern country rock,country
+426,lilith,delete
+427,austro-german modernism,delete
+428,jazz funk,funk
+429,latin pop,latin
+430,opm,delete
+431,classic opm,delete
+432,tagalog worship,delete
+433,regional mexican,delete
+434,georgian folk,folk
+435,drama,delete
+436,adventista,delete
+437,ethnomusicology,delete
+438,poetry,delete
+439,bossa nova,jazz
+440,samba-jazz,jazz
+441,avant-garde jazz,jazz
+442,classic girl group,pop
+443,doo-wop,delete
+444,kentucky mountain folk,folk
+445,mountain dulcimer,delete
+446,string folk,folk
+447,smooth jazz,jazz
+448,canadian classical piano,delete
+449,canadian contemporary r&b,rnb
+450,jazz vibraphone,jazz
+451,spanish classical piano,delete
+452,turkce drill,delete
+453,haitian traditional,delete
+454,japanese jazz,delete
+455,classical clarinet,delete
+456,free improvisation,delete
+457,norwegian contemporary jazz,delete
+458,norwegian jazz,delete
+459,american choir,delete
+460,shanty,delete
+461,pop romantico,delete
+462,swedish jazz,delete
+463,contemporary vocal jazz,jazz
+464,jazz brass,jazz
+465,protest folk,folk
+466,jazz flute,jazz
+467,jazz double bass,jazz
+468,animal singing,delete
+469,electric bass,delete
+470,rhythm and blues,rnb
+471,neo-rockabilly,delete
+472,deep groove house,edm
+473,cumbia,delete
+474,salsa,ballroom
+475,tropical,delete
+476,latin,latin
+477,christmas instrumental,delete
+478,chicago soul,soul
+479,sunshine pop,pop
+480,mgp,delete
+481,bolero cubano,delete
+482,charanga,delete
+483,merseybeat,delete
+484,surf music,delete
+485,afrofuturism,delete
+486,fourth world,delete
+487,spiritual jazz,jazz
+488,lds,delete
+489,beat poetry,delete
+490,children's music,delete
+491,album rock,rock
+492,british invasion,delete
+493,flute rock,delete
+494,hard rock,rock
+495,progressive rock,rock
+496,symphonic rock,rock
+497,mexican classic rock,delete
+498,rockabilly en espanol,delete
+499,mexican traditional,delete
+500,gospel singers,gospel
+501,gospel soul,gospel
+502,outsider,delete
+503,cancion melodica,delete
+504,desi hip hop,delete
+505,galante era,delete
+506,bmore,delete
+507,choral,delete
+508,hammond organ,delete
+509,jazz organ,delete
+510,french pop,delete
+511,french rock,delete
+512,bomba y plena,delete
+513,puerto rican folk,folk
+514,salsa international,ballroom
+515,beach music,delete
+516,philly soul,soul
+517,instrumental funk,funk
+518,instrumental soul,soul
+519,northern soul,soul
+520,halloween,delete
+521,baroque pop,delete
+522,boogaloo,delete
+523,europop,pop
+524,ukulele,delete
+525,carnatic vocal,delete
+526,beatlesque,rock
+527,british blues,blues
+528,brazilian jazz,delete
+529,straight-ahead jazz,jazz
+530,freak folk,folk
+531,brazilian classical,delete
+532,mpb,delete
+533,pops orchestra,delete
+534,cosmic american,delete
+535,manguebeat,delete
+536,koto,delete
+537,samba-rock,delete
+538,tropicalia,delete
+539,classic garage rock,rock
+540,protopunk,rock
+541,glam rock,rock
+542,new americana,rock
+543,disney,delete
+544,jovem guarda,delete
+545,salsa puertorriquena,delete
+546,romantico,delete
+547,british folk,folk
+548,psychedelic folk,folk
+549,scottish singer-songwriter,delete
+550,souldies,delete
+551,freakbeat,delete
+552,garage rock,rock
+553,punk blues,delete
+554,australian rock,delete
+555,piano mpb,delete
+556,canadian pop,pop
+557,canadian singer-songwriter,delete
+558,italian jazz,delete
+559,supergroup,delete
+560,italian soundtrack,delete
+561,vintage italian soundtrack,delete
+562,acid rock,rock
+563,chicano punk,rock
+564,detroit rock,rock
+565,psychedelic folk rock,rock
+566,art pop,pop
+567,post-punk,rock
+568,alternative rock,rock
+569,permanent wave,delete
+570,jam band,delete
+571,heartland rock,rock
+572,reggae,caribbean
+573,rock steady,rock
+574,ska,ska
+575,ska revival,ska
+576,experimental rock,rock
+577,zolo,delete
+578,underground power pop,pop
+579,nederpop,delete
+580,dub,caribbean
+581,lovers rock,rock
+582,musica yucateca,delete
+583,pub rock,rock
+584,classic canadian rock,rock
+585,funk rock,rock
+586,psychedelic soul,soul
+587,metal,hardcore_rock
+588,afrobeat,delete
+589,jazz harp,delete
+590,jazz rock,delete
+591,cantautor,delete
+592,neo soul,soul
+593,neo-psychedelic,delete
+594,double drumming,delete
+595,roots reggae,caribbean
+596,new orleans funk,funk
+597,alternative country,country
+598,ambient folk,folk
+599,indie folk,folk
+600,native american,delete
+601,swamp blues,blues
+602,swamp pop,delete
+603,instrumental rock,rock
+604,chanson paillarde,delete
+605,afropop,delete
+606,ethio-jazz,jazz
+607,world,delete
+608,classic hungarian pop,delete
+609,classic hungarian rock,delete
+610,rock nacional,delete
+611,trova,delete
+612,birmingham metal,hardcore_rock
+613,stoner rock,rock
+614,uk doom metal,hardcore_rock
+615,canadian country,country
+616,jangle pop,pop
+617,power pop,pop
+618,anti-folk,folk
+619,new weird america,delete
+620,corrido,delete
+621,norteno,delete
+622,p funk,funk
+623,political hip hop,rap/hiphop
+624,slam poetry,delete
+625,glam metal,hardcore_rock
+626,pop,pop
+627,pop rock,rock
+628,post-disco,disco
+629,urban contemporary,delete
+630,rock of gibraltar,delete
+631,indie rock,rock
+632,bow pop,delete
+633,jamgrass,delete
+634,dance-punk,delete
+635,krautrock,delete
+636,no wave,delete
+637,space rock,rock
+638,irish rock,delete
+639,r&b,rnb
+640,latin rock,delete
+641,native american contemporary,delete
+642,classic swedish pop,delete
+643,swedish pop,delete
+644,british choir,delete
+645,rock drums,delete
+646,dutch pop,delete
+647,dutch prog,delete
+648,dutch rock,delete
+649,modern funk,funk
+650,early us punk,rock
+651,glam punk,rock
+652,new jack swing,delete
+653,canadian metal,hardcore_rock
+654,rock keyboard,delete
+655,psicodelia brasileira,delete
+656,southern soul blues,blues
+657,cambridge choir,delete
+658,cathedral choir,delete
+659,university choir,delete
+660,cartoon,delete
+661,anime score,delete
+662,j-pop,asian pop
+663,japanese folk,folk
+664,japanese singer-songwriter,asian pop
+665,african rock,delete
+666,salsa colombiana,delete
+667,roots americana,delete
+668,classic japanese jazz,delete
+669,ambient,delete
+670,compositional ambient,delete
+671,experimental ambient,delete
+672,minimalism,delete
+673,skate punk,rock
+674,canadian children's music,delete
+675,children's folk,folk
+676,boston rock,rock
+677,indie r&b,rnb
+678,indie jazz,jazz
+679,canadian psychedelic,delete
+680,synthesizer,delete
+681,modern reggae,caribbean
+682,art punk,delete
+683,girl group,pop
+684,brit funk,funk
+685,gothic rock,rock
+686,uk post-punk,rock
+687,garage psych,delete
+688,post-hardcore,rock
+689,punk 'n' roll,rock
+690,reggae fusion,caribbean
+691,australian dance,edm
+692,candy pop,pop
+693,synth funk,funk
+694,minneapolis sound,delete
+695,madchester,delete
+696,synth punk,delete
+697,tipico,delete
+698,hi-nrg,delete
+699,classic city pop,pop
+700,japanese new wave,delete
+701,shibuya-kei,delete
+702,techno kayo,delete
+703,dream pop,pop
+704,latin alternative,delete
+705,rock en espanol,delete
+706,boogie,delete
+707,disco house,disco
+708,alternative metal,hardcore_rock
+709,speed metal,hardcore_rock
+710,bahamian pop,delete
+711,canadian celtic,delete
+712,popping,delete
+713,riot grrrl,delete
+714,early synthpop,pop
+715,experimental pop,pop
+716,power metal,hardcore_rock
+717,khayal,delete
+718,mod revival,delete
+719,rock andaluz,delete
+720,spanish new wave,delete
+721,spanish pop,delete
+722,german hard rock,delete
+723,german metal,delete
+724,german rock,delete
+725,dark wave,delete
+726,mexican pop,delete
+727,mandolin,delete
+728,australian alternative rock,delete
+729,kiwi rock,delete
+730,nwobhm,delete
+731,sleaze rock,rock
+732,surf punk,rock
+733,ska punk,ska
+734,thrash core,hardcore_rock
+735,hip house,dance
+736,new jersey rap,rap/hiphop
+737,salsa venezolana,delete
+738,chamber orchestra,delete
+739,horror punk,rock
+740,alternative pop,pop
+741,gbvfi,delete
+742,wyoming roots,delete
+743,melodic hardcore,rock
+744,new age,delete
+745,bronx hip hop,rap/hiphop
+746,instrumental surf,delete
+747,black punk,rock
+748,dc hardcore,rock
+749,nyhc,delete
+750,new mexico music,delete
+751,deathrock,hardcore_rock
+752,ethereal wave,delete
+753,scottish rock,delete
+754,uk reggae,caribbean
+755,acoustic punk,delete
+756,german pop,delete
+757,old school thrash,hardcore_rock
+758,thrash metal,hardcore_rock
+759,argentine rock,delete
+760,post-punk argentina,delete
+761,ska argentino,ska
+762,brazilian boogie,delete
+763,crossover thrash,hardcore_rock
+764,funk metal,hardcore_rock
+765,nu metal,hardcore_rock
+766,german heavy metal,delete
+767,christian alternative rock,delete
+768,christian music,delete
+769,uk americana,delete
+770,gothabilly,delete
+771,psychobilly,delete
+772,baroque ensemble,delete
+773,historically informed performance,delete
+774,harpsichord,delete
+775,boy band,pop
+776,swiss rock,delete
+777,romanian classical piano,delete
+778,french synthpop,delete
+779,italian disco,disco
+780,athens indie,delete
+781,lo-fi,delete
+782,death metal,hardcore_rock
+783,grupera,delete
+784,gruperas inmortales,delete
+785,british soul,soul
+786,freestyle,delete
+787,environmental,delete
+788,miami bass,delete
+789,latin arena pop,delete
+790,straight edge,delete
+791,scottish indie,delete
+792,shoegaze,rock
+793,american contemporary classical,delete
+794,drone,delete
+795,meditation,delete
+796,native american flute,delete
+797,navajo,delete
+798,classical flute,delete
+799,spanish rock,delete
+800,electro jazz,electro
+801,noise pop,delete
+802,nu gaze,delete
+803,black comedy,delete
+804,comedy,delete
+805,musical advocacy,delete
+806,rap metal,hardcore_rock
+807,industrial,delete
+808,industrial rock,rock
+809,philly indie,indie
+810,austropop,delete
+811,neue deutsche welle,delete
+812,proto-techno,edm
+813,eurodance,edm
+814,cowpunk,delete
+815,melodic hard rock,rock
+816,swedish hard rock,delete
+817,swedish melodic rock,delete
+818,japanese soundtrack,delete
+819,paisley underground,delete
+820,sacramento indie,indie
+821,new jersey hardcore,rock
+822,new jersey punk,rock
+823,melodic thrash,hardcore_rock
+824,neo classical metal,hardcore_rock
+825,spanish pop rock,delete
+826,cancion infantil mexicana,delete
+827,musica para ninos,delete
+828,musica nicaraguense,delete
+829,bboy,delete
+830,middle earth,delete
+831,mexican rock,delete
+832,rock urbano mexicano,delete
+833,early music ensemble,delete
+834,metal guitar,hardcore_rock
+835,shred,rock
+836,miami hip hop,rap/hiphop
+837,modern rock,rock
+838,women's music,delete
+839,grunge,rock
+840,wrestling,delete
+841,noise rock,rock
+842,harlem hip hop,rap/hiphop
+843,nu-cumbia,delete
+844,classic venezuelan pop,delete
+845,musica llanera,delete
+846,flamenco guitar,delete
+847,toronto indie,indie
+848,britpop,delete
+849,progressive metal,hardcore_rock
+850,us power metal,hardcore_rock
+851,banda caliente,delete
+852,musica potosina,delete
+853,icelandic pop,delete
+854,anime,delete
+855,japanese classical,delete
+856,musica aragonesa,delete
+857,hungarian classical piano,delete
+858,german soundtrack,delete
+859,german power metal,delete
+860,australian pop,pop
+861,electropop,electro
+862,cumbia lagunera,delete
+863,cyberpunk,delete
+864,electronic rock,rock
+865,industrial metal,hardcore_rock
+866,new beat,delete
+867,kentucky roots,delete
+868,classical trumpet,delete
+869,new jersey indie,indie
+870,socal pop punk,rock
+871,anthem worship,delete
+872,ccm,delete
+873,worship,delete
+874,hyphy,delete
+875,oakland hip hop,rap/hiphop
+876,groove metal,hardcore_rock
+877,indie pop,pop
+878,slowcore,delete
+879,jazz rap,delete
+880,geek rock,rock
+881,diva house,dance
+882,truck-driving country,country
+883,bachata,latin
+884,salsa choke,latin
+885,progressive jazz fusion,delete
+886,puerto rican pop,latin
+887,chicano rap,latin
+888,latin hip hop,latin
+889,tejano,latin
+890,german techno,delete
+891,italo house,dance
+892,cumbia sonidera,delete
+893,chilean hardcore,delete
+894,chilean rock,delete
+895,ska chileno,ska
+896,shatta,delete
+897,san diego indie,indie
+898,christian relaxative,delete
+899,classic praise,delete
+900,ska mexicano,ska
+901,classic house,dance
+902,vocal house,dance
+903,neo mellow,delete
+904,philly rap,delete
+905,indietronica,indie
+906,panamanian pop,delete
+907,modern power pop,pop
+908,tex-mex,delete
+909,flint hip hop,rap/hiphop
+910,brazilian punk,delete
+911,post-grunge,rock
+912,deep regional mexican,delete
+913,nuevo regional mexicano,delete
+914,tempe indie,delete
+915,wu fam,delete
+916,neurofunk,funk
+917,canadian rock,rock
+918,banda,delete
+919,oxford indie,indie
+920,west coast trap,trap
+921,hawaiian,delete
+922,bubblegum dance,dance
+923,dayton indie,indie
+924,psychedelic hip hop,rap/hiphop
+925,okc indie,indie
+926,funana,delete
+927,reading indie,indie
+928,tecnobanda,delete
+929,downtempo,delete
+930,bachata dominicana,latin
+931,dominican pop,delete
+932,modern salsa,ballroom
+933,salsa peruana,delete
+934,gothic metal,hardcore_rock
+935,canadian old school hip hop,rap/hiphop
+936,psychedelic punk,rock
+937,musica popular colombiana,delete
+938,pop r&b,rnb
+939,pop punk,rock
+940,british comedy,delete
+941,ohio hip hop,rap/hiphop
+942,alternative r&b,rnb
+943,electronica,electro
+944,trip hop,rap/hiphop
+945,pittsburgh rock,rock
+946,champeta,delete
+947,colombian pop,delete
+948,vallenato,delete
+949,north carolina metal,hardcore_rock
+950,sludge metal,hardcore_rock
+951,stoner metal,hardcore_rock
+952,chicago rap,rap/hiphop
+953,braindance,delete
+954,intelligent dance music,dance
+955,uk experimental electronic,electro
+956,alaska indie,indie
+957,australian psych,delete
+958,swedish country,delete
+959,indie soul,soul
+960,boom bap,delete
+961,banda carnavalera,delete
+962,german pop rock,delete
+963,sierreno,delete
+964,speed garage,delete
+965,scandipop,delete
+966,swedish electropop,electro
+967,alternative dance,dance
+968,house,dance
+969,pop dance,dance
+970,tropical house,dance
+971,underground rap,rap/hiphop
+972,sheffield indie,rock
+973,indie punk,rock
+974,experimental vocal,delete
+975,icelandic experimental,delete
+976,metropopolis,delete
+977,louisiana metal,hardcore_rock
+978,southern metal,hardcore_rock
+979,rap kreyol,delete
+980,lgbtq+ hip hop,rap/hiphop
+981,norteno-sax,delete
+982,nz pop,delete
+983,german underground rap,delete
+984,escape room,delete
+985,trap queen,trap
+986,chamber pop,delete
+987,modern ska punk,ska
+988,smooth saxophone,delete
+989,stomp and holler,delete
+990,washington indie,indie
+991,jazz boom bap,delete
+992,acoustic pop,delete
+993,ectofolk,folk
+994,austin singer-songwriter,delete
+995,antiviral pop,delete
+996,comedy rock,rock
+997,parody,delete
+998,boston punk,rock
+999,neue deutsche harte,delete
+1000,chilena,delete
+1001,south carolina hip hop,delete
+1002,filter house,dance
+1003,anarcho-punk,rock
+1004,modern blues rock,delete
+1005,modern folk rock,rock
+1006,post-teen pop,pop
+1007,new orleans rap,rap/hiphop
+1008,virginia hip hop,rap/hiphop
+1009,derby indie,indie
+1010,praise,delete
+1011,nyc rap,rap/hiphop
+1012,big beat,delete
+1013,breakbeat,delete
+1014,hardcore techno,edm
+1015,rave,edm
+1016,atlanta metal,hardcore_rock
+1017,latin house,dance
+1018,pop argentino,delete
+1019,bounce,delete
+1020,crunk,delete
+1021,elephant 6,delete
+1022,chicha,delete
+1023,cumbia colombiana regia,delete
+1024,nu jazz,delete
+1025,eurobeat,delete
+1026,chicago indie,indie
+1027,chopped and screwed,delete
+1028,deep southern trap,trap
+1029,houston rap,rap/hiphop
+1030,indie garage rock,indie
+1031,lo-fi indie,indie
+1032,ambient pop,pop
+1033,baton rouge rap,delete
+1034,dirty texas rap,delete
+1035,gospel r&b,gospel
+1036,chunchaca,delete
+1037,new rave,delete
+1038,queercore,delete
+1039,alternative emo,rock
+1040,emo,rock
+1041,midwest emo,delete
+1042,texas latin rap,rap/hiphop
+1043,idaho indie,indie
+1044,pokemon,delete
+1045,trap latino,trap
+1046,reggae rock,delete
+1047,jazz pop,delete
+1048,lullaby,delete
+1049,st louis rap,delete
+1050,chiptune,delete
+1051,barbadian pop,delete
+1052,british post-rock,rock
+1053,chamber psych,delete
+1054,cosmic post-rock,delete
+1055,post-rock,rock
+1056,viral pop,pop
+1057,british alternative rock,rock
+1058,rhode island indie,indie
+1059,canadian latin,latin
+1060,kindie rock,indie
+1061,garage rock revival,delete
+1062,swedish garage rock,delete
+1063,swedish indie rock,delete
+1064,bay area indie,indie
+1065,rock independant francais,delete
+1066,memphis hip hop,rap/hiphop
+1067,tennessee hip hop,rap/hiphop
+1068,underground hip hop,rap/hiphop
+1069,queer country,country
+1070,ambient worship,delete
+1071,space ambient,delete
+1072,chinese indie,delete
+1073,sinogaze,delete
+1074,southern china indie,delete
+1075,comedy rap,delete
+1076,canadian pop punk,rock
+1077,canadian punk,rock
+1078,christian indie,delete
+1079,albuquerque indie,indie
+1080,portland indie,indie
+1081,deep house,dance
+1082,funky house,dance
+1083,funky tech house,dance
+1084,jackin' house,dance
+1085,deep tropical house,dance
+1086,groove room,delete
+1087,pop house,dance
+1088,anthem emo,rock
+1089,easycore,delete
+1090,russian edm,delete
+1091,zen,delete
+1092,guaracha,delete
+1093,christian rock,delete
+1094,palm desert scene,delete
+1095,screamo,rock
+1096,battle rap,rap/hiphop
+1097,south african rock,delete
+1098,christian hip hop,delete
+1099,australian country,country
+1100,dancehall,caribbean
+1101,texas pop punk,rock
+1102,old school dancehall,caribbean
+1103,musica costena,delete
+1104,western americana,delete
+1105,reggaeton,latin
+1106,dreamo,delete
+1107,neon pop punk,delete
+1108,pop emo,delete
+1109,moldovan pop,delete
+1110,alabama metal,hardcore_rock
+1111,etherpop,pop
+1112,omaha indie,indie
+1113,british singer-songwriter,delete
+1114,jazztronica,delete
+1115,red dirt,delete
+1116,preschool children's music,delete
+1117,video game music,delete
+1118,gymcore,delete
+1119,hard alternative,rock
+1120,barbershop,delete
+1121,world worship,delete
+1122,belgian rock,delete
+1123,spacewave,delete
+1124,synthwave,delete
+1125,dark clubbing,edm
+1126,aggrotech,edm
+1127,dark electro,electro
+1128,ebm,delete
+1129,electro-industrial,electro
+1130,belgian dance,dance
+1131,jumpstyle,delete
+1132,hands up,delete
+1133,happy hardcore,delete
+1134,psychedelic blues-rock,delete
+1135,gothic symphonic metal,hardcore_rock
+1136,melodic metal,hardcore_rock
+1137,symphonic metal,hardcore_rock
+1138,rap boricua,delete
+1139,seattle indie,indie
+1140,acid house,dance
+1141,chicago house,dance
+1142,soulful house,dance
+1143,italian tech house,dance
+1144,romanian rap,delete
+1145,country rap,delete
+1146,mandopop,asian pop
+1147,singaporean mandopop,asian pop
+1148,singaporean pop,asian pop
+1149,singaporean singer-songwriter,asian pop
+1150,disco polo,delete
+1151,vocal trance,edm
+1152,dutch trance,delete
+1153,danish pop,delete
+1154,dark progressive house,dance
+1155,deep progressive house,dance
+1156,focus trance,edm
+1157,progressive breaks,delete
+1158,talent show,delete
+1159,english indie rock,rock
+1160,kent indie,indie
+1161,reggaeton flow,latin
+1162,north carolina hip hop,rap/hiphop
+1163,jawaiian,delete
+1164,hula,delete
+1165,slack-key guitar,delete
+1166,sacred steel,delete
+1167,piano cover,delete
+1168,modern old-time,delete
+1169,classic j-rock,delete
+1170,canadian ccm,delete
+1171,christian punk,delete
+1172,latin talent show,delete
+1173,industrial techno,edm
+1174,melodic metalcore,hardcore_rock
+1175,virginia metal,hardcore_rock
+1176,ann arbor indie,indie
+1177,asian american hip hop,delete
+1178,k-rap,delete
+1179,abstract hip hop,delete
+1180,scratch,delete
+1181,tribal house,dance
+1182,ambient techno,edm
+1183,cologne electronic,electro
+1184,microhouse,dance
+1185,martial industrial,delete
+1186,medieval folk,folk
+1187,neoclassical darkwave,delete
+1188,neofolk,folk
+1189,nashville hip hop,delete
+1190,soca,caribbean
+1191,pop soul,soul
+1192,acid jazz,jazz
+1193,j-poprock,asian pop
+1194,indie pop rap,rap/hiphop
+1195,bay area hip hop,rap/hiphop
+1196,stomp pop,pop
+1197,melbourne bounce international,delete
+1198,chicago hardcore,rock
+1199,chicago punk,rock
+1200,kansas city hip hop,delete
+1201,modern alternative rock,rock
+1202,boston metal,hardcore_rock
+1203,metalcore,hardcore_rock
+1204,deep new americana,delete
+1205,progressive groove metal,hardcore_rock
+1206,seattle metal,hardcore_rock
+1207,gothenburg indie,delete
+1208,swedish indie folk,folk
+1209,swedish indie pop,delete
+1210,swedish singer-songwriter,delete
+1211,sacramento hip hop,rap/hiphop
+1212,british power metal,hardcore_rock
+1213,brighton indie,indie
+1214,drum and bass,delete
+1215,jump up,delete
+1216,jungle,delete
+1217,la indie,indie
+1218,japanese old school hip hop,delete
+1219,vancouver indie,indie
+1220,pixie,delete
+1221,russian trance,delete
+1222,indie poptimism,indie
+1223,twee pop,pop
+1224,welsh indie,indie
+1225,welsh rock,delete
+1226,indiecoustica,indie
+1227,ninja,delete
+1228,electropowerpop,electro
+1229,oi,delete
+1230,jacksonville indie,indie
+1231,anglican liturgy,delete
+1232,british contemporary classical,delete
+1233,ukhc,delete
+1234,hardcore,delete
+1235,metallic hardcore,hardcore_rock
+1236,uk garage,delete
+1237,baltic classical,delete
+1238,contemporary classical,delete
+1239,shimmer pop,delete
+1240,australian indie,indie
+1241,classic indo pop,delete
+1242,pop folk,folk
+1243,stomp and flutter,delete
+1244,deep uplifting trance,edm
+1245,bubble trance,edm
+1246,bassline,delete
+1247,duranguense,delete
+1248,thai teen pop,asian pop
+1249,classic progressive house,dance
+1250,big room,delete
+1251,brostep,delete
+1252,dutch edm,delete
+1253,slap house,dance
+1254,australian electropop,electro
+1255,neo-synthpop,delete
+1256,eau claire indie,delete
+1257,uk pop,pop
+1258,k-indie,delete
+1259,k-rock,delete
+1260,korean pop,asian pop
+1261,korean singer-songwriter,delete
+1262,dark post-punk,rock
+1263,grave wave,delete
+1264,minimal wave,delete
+1265,finnish edm,delete
+1266,funky breaks,delete
+1267,greek house,dance
+1268,indie fuzzpop,delete
+1269,classic hardstyle,delete
+1270,euphoric hardstyle,delete
+1271,rawstyle,delete
+1272,chillwave,delete
+1273,electro house,electro
+1274,pop edm,edm
+1275,progressive electro house,electro
+1276,folk-pop,folk
+1277,arabesk,delete
+1278,turkish folk,folk
+1279,turkish pop,delete
+1280,danish metal,delete
+1281,danish rock,delete
+1282,pop nacional antigas,delete
+1283,k-pop,asian pop
+1284,k-pop boy group,asian pop
+1285,canadian hip hop,rap/hiphop
+1286,toronto rap,rap/hiphop
+1287,uk post-hardcore,rock
+1288,uk alternative pop,delete
+1289,lo-fi emo,delete
+1290,fidget house,dance
+1291,macedonian folk,folk
+1292,brooklyn indie,indie
+1293,german trance,delete
+1294,dutch indie,delete
+1295,social media pop,pop
+1296,french tech house,dance
+1297,french techno,delete
+1298,minimal techno,edm
+1299,tech house,dance
+1300,cosmic black metal,hardcore_rock
+1301,depressive black metal,hardcore_rock
+1302,german black metal,delete
+1303,pop ambient,pop
+1304,warm drone,delete
+1305,canadian indie,indie
+1306,experimental hip hop,rap/hiphop
+1307,north carolina indie,indie
+1308,north carolina roots,delete
+1309,narodna muzika,delete
+1310,sevdah,delete
+1311,turbo folk,folk
+1312,norwegian hip hop,delete
+1313,pittsburgh rap,rap/hiphop
+1314,francoton,delete
+1315,northern irish indie,delete
+1316,modern southern rock,rock
+1317,new french touch,delete
+1318,nu disco,disco
+1319,country pop,country
+1320,uk dance,dance
+1321,west african jazz,delete
+1322,afro soul,soul
+1323,south african pop,delete
+1324,south african pop dance,delete
+1325,highlife,delete
+1326,rumba congolaise,delete
+1327,soukous,delete
+1328,african gospel,gospel
+1329,azontobeats,delete
+1330,makossa,delete
+1331,thai rock,delete
+1332,thai pop,asian pop
+1333,brutal deathcore,hardcore_rock
+1334,deathcore,hardcore_rock
+1335,progressive deathcore,hardcore_rock
+1336,malian blues,blues
+1337,mande pop,delete
+1338,wassoulou,delete
+1339,neo-traditional bluegrass,delete
+1340,school choir,delete
+1341,bergen indie,delete
+1342,indie cafe pop,indie
+1343,southern gospel,gospel
+1344,family gospel,gospel
+1345,french shoegaze,delete
+1346,instrumental post-rock,rock
+1347,dutch house,dance
+1348,deep dance pop,delete
+1349,gabba,delete
+1350,speedcore,delete
+1351,uptempo hardcore,delete
+1352,digital hardcore,delete
+1353,future rock,rock
+1354,complextro,delete
+1355,dubstep product,delete
+1356,vegas indie,indie
+1357,berlin school,delete
+1358,vapor pop,pop
+1359,progressive psytrance,edm
+1360,psychedelic trance,edm
+1361,canadian experimental,delete
+1362,drift,delete
+1363,new isolationism,delete
+1364,chicago drill,delete
+1365,drill,delete
+1366,seattle hip hop,rap/hiphop
+1367,jewish a capella,delete
+1368,jewish pop,delete
+1369,edmonton indie,indie
+1370,alt z,delete
+1371,canadian electropop,electro
+1372,hyperpop,pop
+1373,modern dream pop,pop
+1374,progressive uplifting trance,edm
+1375,nashville indie,indie
+1376,australian talent show,delete
+1377,irish pop,delete
+1378,uk metalcore,hardcore_rock
+1379,swiss pop,delete
+1380,small room,delete
+1381,bass trap,trap
+1382,gaming edm,edm
+1383,traprun,trap
+1384,indie surf,indie
+1385,chillstep,delete
+1386,trap soul,trap
+1387,australian indie folk,folk
+1388,epicore,delete
+1389,indonesian pop,asian pop
+1390,japanese electropop,electro
+1391,vocaloid,delete
+1392,orlando indie,indie
+1393,korean old school hip hop,delete
+1394,anime rock,delete
+1395,j-pixie,delete
+1396,israeli hip hop,delete
+1397,pop violin,delete
+1398,czech hip hop,delete
+1399,czsk hip hop,delete
+1400,irish singer-songwriter,delete
+1401,roots worship,delete
+1402,iowa indie,indie
+1403,canadian electronic,electro
+1404,latin viral pop,latin
+1405,rap latina,latin
+1406,classic malaysian pop,asian pop
+1407,malaysian pop,asian pop
+1408,rock kapak,delete
+1409,rare groove,delete
+1410,classic australian country,delete
+1411,j-rock,delete
+1412,belgian edm,delete
+1413,crust punk,rock
+1414,sky room,delete
+1415,hardstyle,delete
+1416,norwegian pop,delete
+1417,new comedy,delete
+1418,neo-singer-songwriter,delete
+1419,gauze pop,pop
+1420,shiver pop,pop
+1421,swedish synthpop,delete
+1422,musica per bambini,delete
+1423,australian hip hop,rap/hiphop
+1424,nz hip hop,rap/hiphop
+1425,polynesian pop,asian pop
+1426,future funk,funk
+1427,melodic rap,rap/hiphop
+1428,german indie,delete
+1429,german punk rock,delete
+1430,bouyon,delete
+1431,kentucky hip hop,rap/hiphop
+1432,deep ragga,caribbean
+1433,dark trap,trap
+1434,idol rock,rock
+1435,kawaii metal,delete
+1436,japanese jazz fusion,delete
+1437,industrial hip hop,rap/hiphop
+1438,mississippi hip hop,rap/hiphop
+1439,indie electropop,electro
+1440,la pop,pop
+1441,modern alternative pop,pop
+1442,vapor soul,soul
+1443,bedroom pop,pop
+1444,deep talent show,delete
+1445,baltimore indie,indie
+1446,minimal tech house,dance
+1447,balearic,dance
+1448,scottish electronic,electro
+1449,water,delete
+1450,sound,delete
+1451,white noise,delete
+1452,binaural,delete
+1453,brain waves,delete
+1454,emo rap,delete
+1455,vapor trap,trap
+1456,florida rap,trap
+1457,deep underground hip hop,rap/hiphop
+1458,canadian americana,delete
+1459,canadian contemporary country,country
+1460,saskatchewan indie,delete
+1461,atmospheric dnb,delete
+1462,liquid funk,funk
+1463,rhode island rap,delete
+1464,sad rap,delete
+1465,liverpool indie,rock
+1466,uk funky,delete
+1467,modern big band,delete
+1468,scottish jazz,delete
+1469,moombahton,delete
+1470,electronic trap,trap
+1471,deep funk house,dance
+1472,dfw rap,delete
+1473,classify,delete
+1474,meme rap,delete
+1475,san diego rap,rap/hiphop
+1476,cantopop,asian pop
+1477,xinyao,delete
+1478,hawaiian hip hop,delete
+1479,coverchill,delete
+1480,deep classic garage rock,rock
+1481,afro dancehall,caribbean
+1482,azonto,delete
+1483,nigerian hip hop,delete
+1484,nigerian pop,delete
+1485,finnish power metal,delete
+1486,viral rap,rap/hiphop
+1487,newcastle nsw indie,indie
+1488,icelandic indie,delete
+1489,icelandic rock,delete
+1490,dmv rap,rap/hiphop
+1491,gqom,delete
+1492,korean r&b,delete
+1493,background music,delete
+1494,indie anthem-folk,folk
+1495,oakland indie,indie
+1496,kentucky indie,indie
+1497,munich electronic,electro
+1498,broken beat,delete
+1499,japanese jazztronica,delete
+1500,smooth soul,soul
+1501,deep comedy,delete
+1502,lo-fi beats,delete
+1503,bardcore,delete
+1504,nu skool breaks,delete
+1505,israeli techno,delete
+1506,organic house,dance
+1507,future garage,delete
+1508,swedish electronic,electro
+1509,italian trance,delete
+1510,pittsburgh indie,indie
+1511,detroit trap,trap
+1512,el paso indie,indie
+1513,atl trap,trap
+1514,bubblegrunge,delete
+1515,norwegian indie,delete
+1516,classic k-pop,asian pop
+1517,korean electropop,electro
+1518,cincinnati rap,rap/hiphop
+1519,deep southern soul,soul
+1520,reggaeton colombiano,latin
+1521,rap conscient,delete
+1522,post-minimalism,delete
+1523,nyc pop,pop
+1524,minimal melodic techno,edm
+1525,deep minimal techno,edm
+1526,deep euro house,dance
+1527,vapor twitch,delete
+1528,chillhop,delete
+1529,bedroom soul,soul
+1530,midwest americana,delete
+1531,brooklyn drill,delete
+1532,minnesota hip hop,rap/hiphop
+1533,austindie,indie
+1534,italian progressive rock,delete
+1535,british indie rock,rock
+1536,german dance,dance
+1537,deep progressive trance,edm
+1538,dream trance,edm
+1539,old school hard trance,edm
+1540,german electronica,electro
+1541,pop reggaeton,latin
+1542,modern indie pop,indie
+1543,future bass,delete
+1544,mashup,delete
+1545,r&b en espanol,delete
+1546,dubsteppe,delete
+1547,birmingham grime,delete
+1548,grime,delete
+1549,instrumental grime,delete
+1550,irish electronic,electro
+1551,tech trance,edm
+1552,ritmo kombina,delete
+1553,funk carioca,delete
+1554,funk pop,delete
+1555,pagode baiano,delete
+1556,pop nacional,delete
+1557,american romanticism,delete
+1558,concert band,delete
+1559,marching band,delete
+1560,mexican classical,delete
+1561,entehno,delete
+1562,washboard,delete
+1563,vintage spanish pop,delete
+1564,merengue,delete
+1565,german ccm,delete
+1566,muzica populara,delete
+1567,classic greek pop,delete
+1568,greek pop,delete
+1569,khaleeji iraqi,delete
+1570,middle eastern traditional,delete
+1571,streichquartett,delete
+1572,bengali folk,folk
+1573,hungarian folk,folk
+1574,magyar alternative,delete
+1575,monterrey indie,indie
+1576,folclore extremeno,delete
+1577,kashmiri pop,delete
+1578,italian baritone,delete
+1579,trad jazz catala,delete
+1580,classical horn,delete
+1581,qawwali,delete
+1582,english renaissance,delete
+1583,renaissance,delete
+1584,marathi traditional,delete
+1585,fado,delete
+1586,guitarra portuguesa,delete
+1587,soda pop,pop
+1588,caucasian classical,delete
+1589,indian jazz,delete
+1590,indian violin,delete
+1591,chinese instrumental,delete
+1592,jazz accordion,delete
+1593,german hip hop,delete
+1594,kannada bhava geethe,delete
+1595,pakistani folk,folk
+1596,serialism,delete
+1597,irish classical,delete
+1598,deep delta blues,blues
+1599,traditional southern folk,folk
+1600,telugu devotional,delete
+1601,classical contralto,delete
+1602,afghan pop,delete
+1603,afghan traditional,delete
+1604,flick hop,delete
+1605,canadian classical,delete
+1606,japanese traditional,delete
+1607,traditional rockabilly,delete
+1608,german jazz,delete
+1609,canadian rockabilly,delete
+1610,canadian blues,blues
+1611,gregorian chant,delete
+1612,deep soundtrack,delete
+1613,music box,delete
+1614,contemporary gospel,gospel
+1615,papuri,delete
+1616,canzone d'autore,delete
+1617,canadian indigenous,delete
+1618,american primitive,delete
+1619,drone folk,folk
+1620,fingerstyle,delete
+1621,military cadence,delete
+1622,vintage french electronic,electro
+1623,dabke,delete
+1624,south african jazz,delete
+1625,brazilian indie,delete
+1626,brazilian rock,delete
+1627,japanese psychedelic,delete
+1628,deep funk,funk
+1629,nova mpb,delete
+1630,samba de roda,delete
+1631,traditional soul,soul
+1632,persian pop,delete
+1633,nueva ola chilena,delete
+1634,nova canco,delete
+1635,musica popular mineira,delete
+1636,michigan indie,indie
+1637,canterbury scene,delete
+1638,irish pub song,delete
+1639,indie quebecois,delete
+1640,prog quebec,delete
+1641,dusseldorf electronic,electro
+1642,mallet,delete
+1643,traditional bluegrass,delete
+1644,afro-funk,funk
+1645,italian classical piano,delete
+1646,latin soundtrack,latin
+1647,jazz cubano,delete
+1648,mariachi cristiano,delete
+1649,musica jibara,delete
+1650,classical saxophone,delete
+1651,bossa nova jazz,jazz
+1652,jazz orchestra,jazz
+1653,northern irish punk,delete
+1654,barockinterpreten,delete
+1655,go-go,delete
+1656,deep disco,disco
+1657,deep soft rock,rock
+1658,brazilian classical piano,delete
+1659,modern hard rock,rock
+1660,portland punk,rock
+1661,dub poetry,delete
+1662,doom metal,hardcore_rock
+1663,nwothm,delete
+1664,folk rock italiano,folk
+1665,west end,delete
+1666,brazilian reggae,caribbean
+1667,gothic post-punk,rock
+1668,neo-progressive,delete
+1669,garage punk,rock
+1670,folclor colombiano,delete
+1671,musica andina colombiana,delete
+1672,black metal,hardcore_rock
+1673,black thrash,hardcore_rock
+1674,british black metal,hardcore_rock
+1675,steampunk,delete
+1676,merengue tipico,delete
+1677,uk82,delete
+1678,irish country,delete
+1679,latin christian,delete
+1680,latin worship,delete
+1681,dub punk,delete
+1682,kayokyoku,delete
+1683,spanish synthpop,delete
+1684,shakuhachi,delete
+1685,corrosion,delete
+1686,colombian rock,delete
+1687,south african choral,delete
+1688,xhosa,delete
+1689,danish jazz,delete
+1690,messianic praise,delete
+1691,japanese instrumental,delete
+1692,christian metal,delete
+1693,christian power metal,delete
+1694,emocore,rock
+1695,musique pour enfant quebecois,delete
+1696,german show tunes,delete
+1697,deep christian rock,delete
+1698,comic metal,hardcore_rock
+1699,classic cantopop,asian pop
+1700,canadian choir,delete
+1701,detroit house,dance
+1702,techno,edm
+1703,zouk,delete
+1704,garage pop,delete
+1705,buffalo ny indie,indie
+1706,virginia punk,rock
+1707,dark jazz,jazz
+1708,deep latin christian,delete
+1709,lldm,delete
+1710,modern string quartet,delete
+1711,bouncy house,dance
+1712,hong kong rock,delete
+1713,historical keyboard,delete
+1714,dreamgaze,delete
+1715,louisville underground,delete
+1716,math rock,rock
+1717,brutal death metal,hardcore_rock
+1718,buffalo ny metal,hardcore_rock
+1719,pop chileno,delete
+1720,american shoegaze,rock
+1721,musica hondurena,delete
+1722,punta,delete
+1723,punta rock,rock
+1724,horrorcore,delete
+1725,strut,delete
+1726,brazilian groove metal,delete
+1727,brazilian metal,delete
+1728,brazilian thrash metal,delete
+1729,deathrash,hardcore_rock
+1730,latin metal,delete
+1731,metal mineiro,delete
+1732,grand rapids indie,delete
+1733,boston hip hop,rap/hiphop
+1734,australian children's music,delete
+1735,spanish renaissance,delete
+1736,early music choir,delete
+1737,madrigal,delete
+1738,polyphony,delete
+1739,vocal ensemble,delete
+1740,melodic groove metal,hardcore_rock
+1741,emo punk,rock
+1742,neo-classical,delete
+1743,nordic classical piano,delete
+1744,nl folk,folk
+1745,calming instrumental,delete
+1746,classical harp,delete
+1747,classical oboe,delete
+1748,baroque woodwind,delete
+1749,recorder,delete
+1750,phonk,delete
+1751,ohio indie,indie
+1752,japanese contemporary classical,delete
+1753,ballet class,delete
+1754,musica canaria,delete
+1755,japanese dream pop,asian pop
+1756,pop flamenco,latin
+1757,mexican hip hop,delete
+1758,rap underground mexicano,delete
+1759,argentine reggae,caribbean
+1760,reggae en espanol,caribbean
+1761,vallenato moderno,delete
+1762,cumbia andina mexicana,delete
+1763,vbs,delete
+1764,clean comedy,delete
+1765,classic dubstep,delete
+1766,eugene indie,indie
+1767,celtic metal,delete
+1768,medieval rock,delete
+1769,spanish folk metal,delete
+1770,spanish metal,delete
+1771,progressive alternative,delete
+1772,classic israeli pop,delete
+1773,israeli singer-songwriter,delete
+1774,mizrahi,delete
+1775,italo dance,delete
+1776,dark cabaret,delete
+1777,swedish hardcore,delete
+1778,swedish post-hardcore,delete
+1779,vegan straight edge,delete
+1780,florida death metal,hardcore_rock
+1781,technical death metal,hardcore_rock
+1782,ny roots,delete
+1783,kirtan,delete
+1784,shamanic,delete
+1785,moroccan pop,delete
+1786,rai,delete
+1787,reggae maghreb,caribbean
+1788,nordic post-rock,delete
+1789,taiwan classical performance,delete
+1790,contemporary classical piano,delete
+1791,hungarian choir,delete
+1792,chamber choir,delete
+1793,oxford choir,delete
+1794,asbury park indie,indie
+1795,nashville singer-songwriter,delete
+1796,russian dnb,delete
+1797,german indie pop,delete
+1798,christian a cappella,delete
+1799,collage pop,delete
+1800,american metalcore,hardcore_rock
+1801,mathcore,delete
+1802,vintage hawaiian,delete
+1803,steel guitar,delete
+1804,boston hardcore,delete
+1805,early american folk,folk
+1806,black sludge,delete
+1807,post-black metal,hardcore_rock
+1808,post-doom metal,hardcore_rock
+1809,post-metal,hardcore_rock
+1810,voidgaze,delete
+1811,jewish hip hop,delete
+1812,one-person band,delete
+1813,canadian comedy,delete
+1814,livetronica,delete
+1815,japanese prog,delete
+1816,musica de fondo,delete
+1817,workout product,delete
+1818,canadian soundtrack,delete
+1819,cumbia salvadorena,delete
+1820,cornish folk,folk
+1821,rap cristiano,delete
+1822,reggaeton cristiano,delete
+1823,connecticut hardcore,delete
+1824,electroclash,electro
+1825,power noise,delete
+1826,swiss techno,delete
+1827,brazilian power metal,delete
+1828,rock cristiano,delete
+1829,ambient psychill,delete
+1830,goa trance,delete
+1831,psychill,delete
+1832,austrian punk,delete
+1833,swedish americana,delete
+1834,frenchcore,delete
+1835,canadian hardcore,delete
+1836,louisville indie,indie
+1837,american post-rock,rock
+1838,cinematic post-rock,delete
+1839,christian metalcore,delete
+1840,tampa indie,indie
+1841,brass band,delete
+1842,second line,delete
+1843,street band,delete
+1844,quebec indie,indie
+1845,acid trance,edm
+1846,bossa nova cover,delete
+1847,latin afrobeat,latin
+1848,puerto rican rock,delete
+1849,rap conciencia,delete
+1850,electro latino,latin
+1851,retro soul,soul
+1852,hard house,dance
+1853,orthodox chant,delete
+1854,ukrainian choir,delete
+1855,nintendocore,delete
+1856,progressive post-hardcore,delete
+1857,swancore,delete
+1858,jumptek,delete
+1859,dortmund indie,delete
+1860,welsh metal,delete
+1861,vancouver metal,hardcore_rock
+1862,san marcos tx indie,indie
+1863,classic nz pop,pop
+1864,atmosphere,delete
+1865,healing,delete
+1866,canadian folk,folk
+1867,kids dance party,delete
+1868,hard trance,edm
+1869,french indie pop,delete
+1870,nouvelle chanson francaise,delete
+1871,anime latino,delete
+1872,j-metal,delete
+1873,visual kei,delete
+1874,experimental folk,folk
+1875,alabama rap,rap/hiphop
+1876,ukrainian classical piano,delete
+1877,lds youth,delete
+1878,british brass band,delete
+1879,relaxative,delete
+1880,audiophile vocal,delete
+1881,rebel blues,delete
+1882,danish electronic,electro
+1883,kompa,delete
+1884,classic danish pop,delete
+1885,danish hip hop,delete
+1886,afrikaans,delete
+1887,south african country,delete
+1888,bitpop,delete
+1889,georgian electronic,electro
+1890,cuatro venezolano,delete
+1891,skanska musik,delete
+1892,dark techno,edm
+1893,schranz,delete
+1894,post-screamo,delete
+1895,bath indie,indie
+1896,orgcore,delete
+1897,glee club,delete
+1898,croatian pop,delete
+1899,yugoslav rock,delete
+1900,french post-punk,delete
+1901,trancecore,delete
+1902,charlottesville indie,indie
+1903,auckland indie,indie
+1904,college marching band,delete
+1905,guinean pop,delete
+1906,mbalax,delete
+1907,dansktop,delete
+1908,musica andorra,delete
+1909,thai idol,delete
+1910,minecraft,delete
+1911,rock paraense,delete
+1912,romanian pop,delete
+1913,kaneka,delete
+1914,japanese power metal,delete
+1915,uk worship,delete
+1916,street punk,rock
+1917,arab electronic,electro
+1918,neo r&b,rnb
+1919,alabama indie,indie
+1920,chill lounge,delete
+1921,frankfurt electronic,electro
+1922,oaxaca indie,indie
+1923,cosmic uplifting trance,edm
+1924,deep east coast hip hop,rap/hiphop
+1925,string orchestra,classical
+1926,downtempo bass,delete
+1927,glitch hop,delete
+1928,irish indie,delete
+1929,psychedelic pop,delete
+1930,shonen,delete
+1931,italian electronica,electro
+1932,uk house,dance
+1933,aussietronica,delete
+1934,american oi,delete
+1935,float house,dance
+1936,danish alternative rock,delete
+1937,bristol electronic,electro
+1938,ottawa rap,rap/hiphop
+1939,nz reggae,caribbean
+1940,samoan pop,delete
+1941,cubaton,delete
+1942,melodic dubstep,delete
+1943,dutch hip hop,delete
+1944,melbourne bounce,edm
+1945,german thrash metal,delete
+1946,nu-metalcore,hardcore_rock
+1947,amharic pop,delete
+1948,jazz house,delete
+1949,lithuanian electronic,electro
+1950,viral trap,trap
+1951,south african house,dance
+1952,hard minimal techno,edm
+1953,hamburg electronic,electro
+1954,world chill,delete
+1955,australian house,dance
+1956,chill r&b,rnb
+1957,salsa cristiana,delete
+1958,lo-fi house,dance
+1959,beats,delete
+1960,uk contemporary r&b,rnb
+1961,austin americana,delete
+1962,glitchcore,delete
+1963,taiwan singer-songwriter,delete
+1964,kingston on indie,indie
+1965,waiata mo tamariki,delete
+1966,neo honky tonk,delete
+1967,classic indonesian rock,rock
+1968,indonesian rock,delete
+1969,speedrun,delete
+1970,dong-yo,delete
+1971,lo-fi chill,delete
+1972,dubstep,delete
+1973,deep big room,delete
+1974,gothenburg metal,delete
+1975,swedish power metal,delete
+1976,russelater,delete
+1977,norwegian pop rap,delete
+1978,beatboxing,delete
+1979,yaoi,delete
+1980,alternative pop rock,rock
+1981,spanish indie pop,delete
+1982,scam rap,delete
+1983,irish hip hop,delete
+1984,deep ccm,delete
+1985,korean ost,delete
+1986,deathgrass,delete
+1987,west coast reggae,caribbean
+1988,cape town indie,delete
+1989,indie rockism,indie
+1990,didgeridoo,delete
+1991,modern uplift,delete
+1992,corridos tumbados,delete
+1993,korean trap,trap
+1994,dalarna indie,delete
+1995,glitch,delete
+1996,ghanaian hip hop,delete
+1997,swedish dancehall,delete
+1998,carnaval cadiz,delete
+1999,nisiotika,delete
+2000,early reggae,caribbean
+2001,old-time fiddle,delete
+2002,hardvapour,delete
+2003,sertanejo tradicional,delete
+2004,musica antigua,delete
+2005,shehnai,delete
+2006,viola,delete
+2007,forro,delete
+2008,punk rock italiano,delete
+2009,tollywood,delete
+2010,classic persian pop,delete
+2011,re:techno,edm
+2012,bandolim,delete
+2013,indonesian punk,delete
+2014,israeli classical,delete
+2015,classic tollywood,delete
+2016,classic kollywood,delete
+2017,oratory,delete
+2018,nadaswaram,delete
+2019,prepared piano,delete
+2020,classic czech pop,delete
+2021,czech folk,folk
+2022,detske pisnicky,delete
+2023,musica prehispanica,delete
+2024,czech contemporary classical,delete
+2025,moravian folk,folk
+2026,vintage rockabilly,delete
+2027,chamame,delete
+2028,folclore salteno,delete
+2029,folklore argentino,folk
+2030,guitarra argentina,delete
+2031,sitar,delete
+2032,world fusion,delete
+2033,nova musica pernambucana,delete
+2034,musica juiz-forana,delete
+2035,jazz venezolano,delete
+2036,bush ballad,delete
+2037,folclor afrocolombiano,delete
+2038,northumbrian folk,folk
+2039,belgian singer-songwriter,delete
+2040,beat italiano,delete
+2041,yorkshire folk,folk
+2042,british jazz,jazz
+2043,old west,delete
+2044,steelpan,delete
+2045,porro,delete
+2046,swiss jazz,delete
+2047,rock baiano,delete
+2048,argentine indie,delete
+2049,experimental guitar,delete
+2050,musica alagoana,delete
+2051,hurdy-gurdy,delete
+2052,alternative roots rock,rock
+2053,eastern bloc groove,delete
+2054,rock progressif francais,delete
+2055,deep punk rock,rock
+2056,classic afrobeat,delete
+2057,japanese vocal jazz,delete
+2058,norwegian experimental,delete
+2059,autoharp,delete
+2060,kundiman,delete
+2061,modern performance,delete
+2062,japanese experimental,delete
+2063,d-beat,delete
+2064,idol kayo,delete
+2065,scottish folk,folk
+2066,italian violin,delete
+2067,brazilian soul,soul
+2068,neo-trad metal,hardcore_rock
+2069,harp,delete
+2070,jig and reel,delete
+2071,chinese audiophile,delete
+2072,taiwan campus folk,folk
+2073,hokkien pop,delete
+2074,fo jing,delete
+2075,belgian jazz,delete
+2076,harmonica jazz,jazz
+2077,epic doom,delete
+2078,opera metal,delete
+2079,swedish doom metal,delete
+2080,swedish metal,delete
+2081,synthetic classical,delete
+2082,dunedin indie,delete
+2083,dunedin sound,delete
+2084,nz indie,delete
+2085,modern cello,delete
+2086,rock brasiliense,delete
+2087,rock nacional brasileiro,delete
+2088,christchurch indie,indie
+2089,classic russian rock,delete
+2090,russian post-punk,delete
+2091,swiss black metal,delete
+2092,swiss metal,delete
+2093,trova mexicana,delete
+2094,olympia wa indie,indie
+2095,british experimental,delete
+2096,british industrial,delete
+2097,autonomous black metal,hardcore_rock
+2098,pagan black metal,hardcore_rock
+2099,swedish black metal,delete
+2100,viking black metal,delete
+2101,viking metal,delete
+2102,russian chanson,delete
+2103,russian rock,delete
+2104,gaita zuliana,delete
+2105,technical groove metal,hardcore_rock
+2106,belgian classical piano,delete
+2107,rosary,delete
+2108,vancouver punk,rock
+2109,contemporary folk,folk
+2110,detroit techno,edm
+2111,death 'n' roll,delete
+2112,swedish death metal,delete
+2113,korean classical performance,delete
+2114,cuarteto,delete
+2115,dutch jazz,delete
+2116,cape verdean folk,folk
+2117,morna,delete
+2118,musica cabo-verdiana,delete
+2119,twoubadou,delete
+2120,villancicos,delete
+2121,deep smooth jazz,jazz
+2122,triangle indie,indie
+2123,pinoy reggae,delete
+2124,pinoy rock,delete
+2125,classical piano duo,delete
+2126,retro metal,hardcore_rock
+2127,garage house,dance
+2128,desert blues,blues
+2129,norwegian black metal,delete
+2130,hard rock mexicano,delete
+2131,alberta country,country
+2132,polynesian hip hop,delete
+2133,mexican indie,delete
+2134,power-pop punk,rock
+2135,indian indie,delete
+2136,egyptian pop,delete
+2137,rif,delete
+2138,final fantasy,delete
+2139,japanese vgm,delete
+2140,ska jazz,ska
+2141,tamborazo,delete
+2142,deep norteno,delete
+2143,latino comedy,delete
+2144,hungarian contemporary classical,delete
+2145,venezuelan rock,delete
+2146,classical countertenor,delete
+2147,baroque violin,delete
+2148,nz singer-songwriter,delete
+2149,bhangra,delete
+2150,classic belgian pop,delete
+2151,glitch pop,delete
+2152,finnish metal,delete
+2153,crack rock steady,delete
+2154,finnish death metal,delete
+2155,finnish melodeath,delete
+2156,melodic death metal,hardcore_rock
+2157,duluth indie,delete
+2158,classic j-pop,asian pop
+2159,oceania soundtrack,delete
+2160,montreal indie,indie
+2161,j-pop boy group,asian pop
+2162,bulgarian electronic,electro
+2163,odia bhajan,delete
+2164,odia pop,delete
+2165,australian indigenous,delete
+2166,indian rock,delete
+2167,indian singer-songwriter,delete
+2168,acoustic rock,delete
+2169,east coast reggae,caribbean
+2170,swedish heavy metal,delete
+2171,victoria bc indie,indie
+2172,modern jazz piano,jazz
+2173,cleveland metal,hardcore_rock
+2174,vaporwave,delete
+2175,svensk progg,delete
+2176,swedish prog,delete
+2177,brazilian grindcore,delete
+2178,miami metal,hardcore_rock
+2179,progressive sludge,delete
+2180,belgian new wave,delete
+2181,new wave of thrash metal,hardcore_rock
+2182,japanese chillhop,delete
+2183,therapy,delete
+2184,alternative hardcore,rock
+2185,riddim,delete
+2186,canadian post-hardcore,rock
+2187,atlanta punk,rock
+2188,swedish punk,delete
+2189,deep soul house,dance
+2190,crossover prog,delete
+2191,j-acoustic,delete
+2192,japanese shoegaze,delete
+2193,deep german punk,delete
+2194,german metalcore,delete
+2195,russian thrash metal,delete
+2196,deep full on,delete
+2197,christian thrash metal,delete
+2198,hard glam,rock
+2199,euroska,ska
+2200,indie veneto,delete
+2201,italian punk,delete
+2202,italian ska,ska
+2203,street punk espanol,delete
+2204,chamber folk,folk
+2205,symphonic death metal,hardcore_rock
+2206,shaabi,delete
+2207,brazilian black metal,delete
+2208,metal catarinense,delete
+2209,indy indie,indie
+2210,traditional british folk,folk
+2211,tulsa indie,indie
+2212,electra,electro
+2213,bosnian electronic,electro
+2214,ecuadorian pop,delete
+2215,tolkien metal,hardcore_rock
+2216,djent,delete
+2217,technical thrash,hardcore_rock
+2218,powerviolence,delete
+2219,christian pop,delete
+2220,latin tech house,dance
+2221,south carolina indie,indie
+2222,doomcore,delete
+2223,polish prog,delete
+2224,japanese piano,delete
+2225,basel indie,indie
+2226,dark minimal techno,edm
+2227,german dark minimal techno,delete
+2228,deep eurodance,edm
+2229,deep deep house,edm
+2230,australian black metal,hardcore_rock
+2231,guatemalan pop,delete
+2232,latinx alternative,delete
+2233,rock chapin,delete
+2234,fake,delete
+2235,discofox,delete
+2236,partyschlager,delete
+2237,schlager,delete
+2238,italian metal,delete
+2239,hungarian techno,delete
+2240,432hz,delete
+2241,belarusian pop,delete
+2242,destroy techno,edm
+2243,industrial hardcore,delete
+2244,pirate,delete
+2245,swedish house,dance
+2246,deep vocal house,dance
+2247,filthstep,delete
+2248,gaming dubstep,delete
+2249,thai hip hop,delete
+2250,dakke dak,delete
+2251,japanese emo,delete
+2252,japanese pop punk,delete
+2253,popgaze,delete
+2254,slovak hip hop,delete
+2255,slovak pop,delete
+2256,rochester ny indie,indie
+2257,ukrainian electronic,electro
+2258,chill groove,delete
+2259,croatian electronic,electro
+2260,alternative americana,delete
+2261,dark hardcore,delete
+2262,hopebeat,delete
+2263,focus beats,delete
+2264,belarusian electronic,electro
+2265,yoga,delete
+2266,indie game soundtrack,delete
+2267,estonian pop,delete
+2268,greek contemporary classical,delete
+2269,greek guitar,delete
+2270,tekk,delete
+2271,kawaii future bass,delete
+2272,dutch indie rock,delete
+2273,deep darkpsy,delete
+2274,japanese indie rock,delete
+2275,russian dance,dance
+2276,mexican edm,delete
+2277,indie psych-pop,indie
+2278,shimmer psych,delete
+2279,rochester mn indie,indie
+2280,thai folk rock,delete
+2281,eurovision,delete
+2282,deep techno,edm
+2283,melodic techno,edm
+2284,rhythm game,delete
+2285,neo-traditional country,delete
+2286,bhojpuri pop,delete
+2287,minneapolis indie,indie
+2288,cantaditas,delete
+2289,deep pop edm,delete
+2290,j-division,delete
+2291,wave,delete
+2292,witch house,delete
+2293,belarusian indie,delete
+2294,sovietwave,delete
+2295,k-pop girl group,asian pop
+2296,hard dance,delete
+2297,baltimore hip hop,rap/hiphop
+2298,indonesian edm,delete
+2299,afro house,delete
+2300,brazilian edm,delete
+2301,sudanese pop,delete
+2302,leicester indie,indie
+2303,australian garage punk,delete
+2304,industrial black metal,hardcore_rock
+2305,symphonic black metal,hardcore_rock
+2306,slc indie,indie
+2307,uk alternative hip hop,rap/hiphop
+2308,trap boricua,trap
+2309,city pop,pop
+2310,belgian indie,delete
+2311,belgian indie rock,delete
+2312,ghent indie,indie
+2313,classic eurovision,delete
+2314,musica piemonteisa,delete
+2315,greek swing,delete
+2316,classic latvian pop,delete
+2317,latvian pop,delete
+2318,venezuelan metal,delete
+2319,cypriot pop,delete
+2320,nagpuri pop,delete
+2321,vintage swedish pop,delete
+2322,swing revival,delete
+2323,wind quintet,delete
+2324,punjabi folk,folk
+2325,german literature,delete
+2326,deep psychobilly,delete
+2327,gamelan,delete
+2328,burmese traditional,delete
+2329,israeli folk,folk
+2330,komedi,delete
+2331,ethiopian traditional,delete
+2332,baiao,delete
+2333,samba moderno,delete
+2334,barnmusik,delete
+2335,african percussion,delete
+2336,chinese classical performance,delete
+2337,chinese classical piano,delete
+2338,electrofox,electro
+2339,irish banjo,delete
+2340,baltic choir,delete
+2341,karaoke,delete
+2342,musica sarda,delete
+2343,classic psychedelic rock,rock
+2344,german renaissance,delete
+2345,microtonal,delete
+2346,tzadik,delete
+2347,gaian doom,delete
+2348,italian library music,delete
+2349,umbanda,delete
+2350,uk dub,delete
+2351,panpipe,delete
+2352,romanian folk,folk
+2353,afro psych,delete
+2354,polish jazz,delete
+2355,australian post-punk,delete
+2356,basshall,delete
+2357,axe,delete
+2358,sertanejo,delete
+2359,sertanejo universitario,delete
+2360,classic punjabi pop,delete
+2361,post-disco soul,soul
+2362,manila sound,delete
+2363,folclore tucumano,delete
+2364,classic russian pop,delete
+2365,russian pop,delete
+2366,armenian folk,folk
+2367,duduk,delete
+2368,finnish hard rock,delete
+2369,japanese heavy metal,delete
+2370,french reggae,caribbean
+2371,tennessee experimental,delete
+2372,transpop,delete
+2373,power thrash,hardcore_rock
+2374,outsider house,delete
+2375,pinoy praise,delete
+2376,zydeco,delete
+2377,japanese classical piano,delete
+2378,nursery,delete
+2379,futurepop,delete
+2380,neue deutsche todeskunst,delete
+2381,cajun,delete
+2382,old school uk hip hop,rap/hiphop
+2383,musica tropical guatemalteca,delete
+2384,african reggae,caribbean
+2385,ambient house,delete
+2386,bristol indie,indie
+2387,grebo,delete
+2388,dutch classical piano,delete
+2389,minneapolis punk,delete
+2390,ontario indie,indie
+2391,danish choir,delete
+2392,classic norwegian pop,delete
+2393,american early music,delete
+2394,turkish classical performance,delete
+2395,bleep techno,edm
+2396,french movie tunes,delete
+2397,denver indie,indie
+2398,accordion,delete
+2399,classical accordion,delete
+2400,italian contemporary jazz,delete
+2401,taiwan pop,delete
+2402,folkmusik,folk
+2403,nordic folk,folk
+2404,viking folk,folk
+2405,ambient black metal,hardcore_rock
+2406,atmospheric black metal,hardcore_rock
+2407,dungeon synth,delete
+2408,norwegian metal,delete
+2409,russian ccm,delete
+2410,knoxville indie,indie
+2411,abstract,delete
+2412,dub techno,delete
+2413,nordic ambient,delete
+2414,traditional ska,ska
+2415,psychedelic doom,delete
+2416,german alternative rock,delete
+2417,chinese r&b,delete
+2418,dallas indie,indie
+2419,peruvian rock,delete
+2420,grunge pop,delete
+2421,electro swing,electro
+2422,danish pop rock,delete
+2423,texas punk,delete
+2424,dutch death metal,delete
+2425,dutch metal,delete
+2426,mumbai indie,delete
+2427,footwork,delete
+2428,saxony metal,hardcore_rock
+2429,hauntology,delete
+2430,classic icelandic pop,delete
+2431,german tech house,dance
+2432,uk dnb,delete
+2433,russian power metal,delete
+2434,classical mandolin,delete
+2435,korean classical piano,delete
+2436,veracruz indie,delete
+2437,gainesville indie,indie
+2438,arizona punk,delete
+2439,christian hardcore,delete
+2440,italian gothic,delete
+2441,italian gothic metal,delete
+2442,slayer,delete
+2443,wind ensemble,delete
+2444,icelandic folk,folk
+2445,traditional english folk,folk
+2446,morelos indie,delete
+2447,zhongguo feng,delete
+2448,classic thai pop,delete
+2449,black 'n' roll,delete
+2450,finnish black metal,delete
+2451,finnish doom metal,delete
+2452,thai folk pop,folk
+2453,symphonic power metal,hardcore_rock
+2454,mathgrind,delete
+2455,erhu,delete
+2456,oshare kei,delete
+2457,j-punk,delete
+2458,ambeat,delete
+2459,uk hip hop,rap/hiphop
+2460,french death metal,delete
+2461,french metal,delete
+2462,breakcore,delete
+2463,drill and bass,delete
+2464,scottish indie folk,folk
+2465,uk pop punk,rock
+2466,deep free jazz,jazz
+2467,french indietronica,delete
+2468,chilean indie,delete
+2469,latintronica,latin
+2470,rap chileno,delete
+2471,fast melodic punk,rock
+2472,swiss punk,delete
+2473,luk thung,delete
+2474,christian hard rock,delete
+2475,organic electronic,electro
+2476,japanese metalcore,delete
+2477,dutch tech house,dance
+2478,thai indie,delete
+2479,south dakota indie,indie
+2480,canadian house,delete
+2481,blackgaze,delete
+2482,faroese pop,delete
+2483,full on,delete
+2484,swedish synth,delete
+2485,cumbia chilena,delete
+2486,cumbia paraguaya,delete
+2487,cumbia villera,delete
+2488,folktronica,folk
+2489,new orleans indie,indie
+2490,perth indie,indie
+2491,italian techno,delete
+2492,irish experimental electronic,electro
+2493,trap peruano,trap
+2494,west virginia indie,indie
+2495,suomisaundi,delete
+2496,deep tech house,dance
+2497,gothic alternative,delete
+2498,denton tx indie,indie
+2499,experimental dubstep,delete
+2500,thai folk,folk
+2501,dutch americana,delete
+2502,thai instrumental,delete
+2503,australian reggae fusion,caribbean
+2504,nuevo flamenco,latin
+2505,metal gaucho,delete
+2506,chip hop,delete
+2507,jordanian pop,delete
+2508,hungarian rock,delete
+2509,ghettotech,delete
+2510,christian trap,trap
+2511,deep deep tech house,dance
+2512,christian uplift,delete
+2513,german ska,ska
+2514,naija worship,delete
+2515,hokkaido indie,delete
+2516,japanese guitar,delete
+2517,j-core,delete
+2518,ghanaian pop,delete
+2519,assyrian pop,delete
+2520,spa,delete
+2521,deep r&b,rnb
+2522,nantes indie,delete
+2523,electronic djent,electro
+2524,oc rap,rap/hiphop
+2525,firenze indie,delete
+2526,italian alternative,delete
+2527,italian new wave,delete
+2528,italian post punk,delete
+2529,asmr,delete
+2530,channel islands indie,delete
+2531,israeli pop,delete
+2532,sound effects,delete
+2533,ambient idm,delete
+2534,german shoegaze,delete
+2535,psych gaze,delete
+2536,australian alternative pop,delete
+2537,ethnotronica,delete
+2538,dembow,delete
+2539,rap dominicano,delete
+2540,cambodian pop,delete
+2541,korean indie rock,delete
+2542,deep happy hardcore,delete
+2543,indonesian hip hop,delete
+2544,chinese hip hop,delete
+2545,indie hip hop,rap/hiphop
+2546,japanese house,delete
+2547,german house,delete
+2548,house argentino,delete
+2549,military rap,delete
+2550,deep disco house,delete
+2551,russian punk,delete
+2552,russian ska,ska
+2553,japanese teen pop,asian pop
+2554,teen pop,pop
+2555,indiana hip hop,delete
+2556,lo-fi vgm,delete
+2557,nerdcore,delete
+2558,acoustic chill,delete
+2559,slovak electronic,electro
+2560,pop venezolano,delete
+2561,afroswing,delete
+2562,london rap,rap/hiphop
+2563,perreo,delete
+2564,russian choir,delete
+2565,sandalwood,delete
+2566,greek folk,folk
+2567,lo star,delete
+2568,irish fiddle,delete
+2569,visor,delete
+2570,orkney and shetland folk,folk
+2571,veena,delete
+2572,antilliaanse folklore,folk
+2573,indorock,delete
+2574,welsh folk,folk
+2575,dutch folk,folk
+2576,jazz chileno,jazz
+2577,timba,delete
+2578,ilocano pop,delete
+2579,deep motown,delete
+2580,neo kyma,delete
+2581,dansband,delete
+2582,spanish invasion,delete
+2583,folclore jujeno,delete
+2584,polca paraguaya,delete
+2585,musica andina,delete
+2586,classic french pop,delete
+2587,lute,delete
+2588,canto popular uruguayo,delete
+2589,israeli rock,delete
+2590,yiddish folk,folk
+2591,german country,delete
+2592,pornogrind,delete
+2593,anadolu rock,delete
+2594,turkish modern jazz,delete
+2595,turkish psych,delete
+2596,musique concrete,delete
+2597,turkish experimental,delete
+2598,cambodian rock,delete
+2599,khmer,delete
+2600,italian renaissance,delete
+2601,jazz mexicano,delete
+2602,sesame street,delete
+2603,dark disco,disco
+2604,beninese pop,delete
+2605,california hardcore,delete
+2606,noise punk,delete
+2607,griot,delete
+2608,juju,delete
+2609,modular synth,delete
+2610,australian classical,delete
+2611,danspunk,delete
+2612,trash rock,rock
+2613,arab groove,delete
+2614,arabic jazz,delete
+2615,neo-pagan,delete
+2616,kodomo no ongaku,delete
+2617,british death metal,hardcore_rock
+2618,british grindcore,delete
+2619,deathgrind,delete
+2620,grindcore,delete
+2621,vintage cantonese pop,delete
+2622,horror synth,delete
+2623,scottish fiddle,delete
+2624,classical piano trio,delete
+2625,american grindcore,delete
+2626,trival,delete
+2627,nordic orchestra,delete
+2628,traditional irish singing,delete
+2629,polish contemporary classical,delete
+2630,balkan classical piano,delete
+2631,deep freestyle,delete
+2632,tahitian,delete
+2633,rune folk,folk
+2634,baroque brass,delete
+2635,hawaiian indie,delete
+2636,tibetan pop,delete
+2637,progressive death metal,hardcore_rock
+2638,swedish progressive metal,delete
+2639,italian baroque ensemble,delete
+2640,contrabass,delete
+2641,canadian post-rock,rock
+2642,italian power metal,delete
+2643,swedish choir,delete
+2644,wyoming indie,indie
+2645,modern jazz trio,jazz
+2646,australian ska,ska
+2647,jazz metal,hardcore_rock
+2648,vietnamese pop,asian pop
+2649,finnish electro,electro
+2650,chinese indie pop,asian pop
+2651,greek black metal,delete
+2652,judaica,delete
+2653,deep power-pop punk,delete
+2654,cumbia uruguaya,delete
+2655,song poem,delete
+2656,japanese techno,delete
+2657,memphis americana,delete
+2658,carnaval,delete
+2659,nederlandse hardstyle,delete
+2660,korean instrumental,delete
+2661,forest psy,delete
+2662,brazilian dnb,delete
+2663,gothic americana,delete
+2664,german street punk,delete
+2665,belgian techno,delete
+2666,swedish techno,delete
+2667,brazilian techno,delete
+2668,action rock,rock
+2669,deep dnb,delete
+2670,deep liquid bass,delete
+2671,nz dnb,delete
+2672,italian black metal,delete
+2673,italian death metal,delete
+2674,spanish indie rock,delete
+2675,dutch punk rock,delete
+2676,boston folk,folk
+2677,french punk,delete
+2678,rock alternatif francais,delete
+2679,austrian techno,edm
+2680,folk metal,delete
+2681,nordic folk metal,delete
+2682,slavic folk metal,delete
+2683,deep idm,delete
+2684,indie shoegaze,rock
+2685,atlanta indie,indie
+2686,nu age,delete
+2687,partido alto,delete
+2688,samba-enredo,delete
+2689,youth orchestra,delete
+2690,atmospheric post-metal,hardcore_rock
+2691,drone metal,hardcore_rock
+2692,neo-crust,delete
+2693,ambient trance,delete
+2694,wind symphony,delete
+2695,nordic soundtrack,delete
+2696,abstract beats,delete
+2697,tone,delete
+2698,australian metalcore,hardcore_rock
+2699,belgian pop,delete
+2700,g-house,delete
+2701,chinese classical,delete
+2702,progressive doom,delete
+2703,glitter trance,delete
+2704,colombian electronic,electro
+2705,deep neo-synthpop,pop
+2706,norwegian singer-songwriter,delete
+2707,dutch experimental electronic,electro
+2708,dutch moombahton,delete
+2709,indonesian r&b,delete
+2710,turkish edm,delete
+2711,charlotte nc indie,indie
+2712,japanese post-hardcore,delete
+2713,indie dream pop,pop
+2714,portuguese indie rock,delete
+2715,wonky,delete
+2716,ukrainian folk,folk
+2717,ukrainian pop,delete
+2718,ukrainian rock,delete
+2719,deep chill,delete
+2720,hungarian punk,delete
+2721,macedonian electronic,electro
+2722,tucson indie,indie
+2723,brazilian blues,delete
+2724,indie electronica,electro
+2725,okinawan pop,delete
+2726,deep hardtechno,edm
+2727,canadian indie folk,folk
+2728,nordic house,dance
+2729,cedm,delete
+2730,virgin islands reggae,reggae
+2731,21st century classical,classical
+2732,taiwan indie,delete
+2733,j-indie,delete
+2734,xtra raw,delete
+2735,japanese dance pop,asian pop
+2736,aussie emo,delete
+2737,arkansas hip hop,rap/hiphop
+2738,darkstep,delete
+2739,bass house,delete
+2740,rajasthani pop,delete
+2741,serbian electronic,electro
+2742,acoustic guitar cover,delete
+2743,nwocr,delete
+2744,lounge house,delete
+2745,argentine ambient,delete
+2746,manchester hip hop,rap/hiphop
+2747,scandinavian r&b,delete
+2748,swedish soul,soul
+2749,spanish techno,delete
+2750,background piano,delete
+2751,japanese edm,delete
+2752,trap argentino,trap
+2753,brazilian ska,ska
+2754,vintage gospel,gospel
+2755,rwandan traditional,delete
+2756,assamese pop,delete
+2757,boy soprano,delete
+2758,pinoy traditional,delete
+2759,brazilian percussion,delete
+2760,coco,delete
+2761,forro tradicional,delete
+2762,folklore chileno,folk
+2763,ghanaian traditional,delete
+2764,swedish jazz orkester,delete
+2765,quartetto d'archi,delete
+2766,skiffle,delete
+2767,bornehistorier,delete
+2768,classic iskelma,delete
+2769,adoracion,delete
+2770,volksmusik,delete
+2771,musikkorps,delete
+2772,violao classico,delete
+2773,classic polish pop,delete
+2774,bulgarian experimental,delete
+2775,persian traditional,delete
+2776,blues latinoamericano,latin
+2777,swedish rock-and-roll,delete
+2778,uilleann pipes,delete
+2779,italian indie pop,delete
+2780,jazz colombiano,delete
+2781,polish pop,delete
+2782,indian fusion,delete
+2783,sertanejo pop,delete
+2784,cumbia funk,funk
+2785,cumbia peruana,delete
+2786,detskie pesni,delete
+2787,detskie rasskazy,delete
+2788,russian jazz,delete
+2789,rennes indie,delete
+2790,deep new wave,delete
+2791,brazilian hip hop,delete
+2792,classic korean pop,asian pop
+2793,blues mexicano,delete
+2794,baroque singing,delete
+2795,italian pop rock,delete
+2796,ambient industrial,delete
+2797,auteur-compositeur-interprete quebecois,delete
+2798,kabyle,delete
+2799,irish flute,delete
+2800,new york death metal,hardcore_rock
+2801,old school rap francais,delete
+2802,blackened crust,delete
+2803,norwegian death metal,delete
+2804,technical black metal,hardcore_rock
+2805,halifax indie,indie
+2806,milwaukee indie,indie
+2807,south african gospel,gospel
+2808,japanese r&b,delete
+2809,japanese alternative pop,delete
+2810,celtic harp,delete
+2811,pop peruano,delete
+2812,kundalini,delete
+2813,musica cristiana guatemalteca,delete
+2814,kc indie,indie
+2815,latin funk,funk
+2816,japanese concert band,delete
+2817,instrumental stoner rock,rock
+2818,rock alternativo brasileiro,delete
+2819,lebanese indie,delete
+2820,chinese traditional,delete
+2821,soul flow,soul
+2822,nightcore,delete
+2823,gothic black metal,hardcore_rock
+2824,classic bhangra,delete
+2825,women's choir,delete
+2826,finnish alternative rock,delete
+2827,contemporary choir,delete
+2828,french indie folk,folk
+2829,sunset lounge,delete
+2830,new england americana,delete
+2831,punjabi pop,delete
+2832,punk tuga,delete
+2833,emo mexicano,delete
+2834,mexican pop punk,delete
+2835,punk rock mexicano,delete
+2836,thai metal,delete
+2837,chinese indie rock,delete
+2838,hong kong indie,delete
+2839,oktoberfest,delete
+2840,denpa-kei,delete
+2841,seiyu,delete
+2842,mongolian hip hop,delete
+2843,mongolian pop,delete
+2844,outer hip hop,rap/hiphop
+2845,bc underground hip hop,rap/hiphop
+2846,deep flow,delete
+2847,acid techno,edm
+2848,bass music,delete
+2849,substep,delete
+2850,j-pop girl group,asian pop
+2851,school ensemble,delete
+2852,romanian electronic,electro
+2853,australian ambient,delete
+2854,focus,delete
+2855,utah indie,delete
+2856,berlin minimal techno,delete
+2857,melbourne indie,indie
+2858,future house,delete
+2859,deep melodic hard rock,rock
+2860,swedish tropical house,delete
+2861,uk tech house,dance
+2862,south african hip hop,delete
+2863,irish techno,delete
+2864,polish techno,delete
+2865,dub reggae,caribbean
+2866,chinese electropop,electro
+2867,christmas product,delete
+2868,muziek voor kinderen,delete
+2869,urbano espanol,delete
+2870,colombian hip hop,delete
+2871,boy pop,pop
+2872,spanish hip hop,delete
+2873,italian mandolin,delete
+2874,croatian folk,folk
+2875,deep latin alternative,delete
+2876,indonesian indigenous,delete
+2877,oriental classical,delete
+2878,uzbek traditional,delete
+2879,gypsy,delete
+2880,histoire pour enfants,delete
+2881,musique pour enfants,delete
+2882,frevo,delete
+2883,musica pernambucana,delete
+2884,tamil devotional,delete
+2885,egyptian traditional,delete
+2886,nubian traditional,delete
+2887,nueva ola peruana,delete
+2888,bard,delete
+2889,barnsagor,delete
+2890,muzika l'yeladim,delete
+2891,dangdut,delete
+2892,indonesian indie,delete
+2893,deep dubstep,delete
+2894,uk rockabilly,rock
+2895,proto-rap,delete
+2896,folklore peruano,folk
+2897,huayno,delete
+2898,musica ayacuchana,delete
+2899,azeri traditional,delete
+2900,plunderphonics,delete
+2901,musica tradicional dominicana,delete
+2902,belgian contemporary classical,delete
+2903,organic ambient,delete
+2904,argentine heavy metal,delete
+2905,classic finnish pop,delete
+2906,humppa,delete
+2907,iskelma,delete
+2908,sotalaulut,delete
+2909,variete francaise,delete
+2910,musica infantil,delete
+2911,musica para criancas,delete
+2912,pinoy hip hop,delete
+2913,concepcion indie,delete
+2914,russian alternative rock,delete
+2915,russian folk rock,delete
+2916,goregrind,delete
+2917,deep acoustic pop,delete
+2918,circus,delete
+2919,western mass indie,indie
+2920,classical string trio,delete
+2921,lancaster pa indie,indie
+2922,nottingham indie,indie
+2923,irish dance,delete
+2924,atmospheric sludge,delete
+2925,dub metal,hardcore_rock
+2926,new zealand classical,delete
+2927,geek folk,folk
+2928,christelijk,delete
+2929,hip hop cubano,delete
+2930,j-ambient,delete
+2931,japanese electronic,electro
+2932,japanese idm,delete
+2933,pet calming,delete
+2934,huapango,delete
+2935,8-bit,delete
+2936,russian dance pop,delete
+2937,indie tabasqueno,delete
+2938,british children's music,delete
+2939,icelandic electronic,electro
+2940,minimal dnb,delete
+2941,j-reggae,reggae
+2942,danish electro,electro
+2943,bemani,delete
+2944,indian folk,folk
+2945,reggae cover,reggae
+2946,santa fe indie,indie
+2947,italian blues,delete
+2948,italian hip hop,delete
+2949,rap napoletano,delete
+2950,albanian pop,delete
+2951,instrumental acoustic guitar,delete
+2952,cologne indie,delete
+2953,neo-kraut,delete
+2954,norwegian space disco,delete
+2955,nightrun,delete
+2956,future ambient,delete
+2957,slovenian electronic,electro
+2958,brazilian doom metal,delete
+2959,electronica chilena,electro
+2960,nashville americana,delete
+2961,futuristic swag,delete
+2962,trance mexicano,delete
+2963,skramz,delete
+2964,rap inde,delete
+2965,medieval,delete
+2966,musique ancienne,delete
+2967,quatuor a cordes,delete
+2968,oc indie,indie
+2969,goa psytrance,delete
+2970,chicago bop,delete
+2971,south african alternative,delete
+2972,chicago pop punk,delete
+2973,reunion pop,pop
+2974,cambridgeshire indie,indie
+2975,solipsynthm,delete
+2976,euphonium,delete
+2977,new england emo,delete
+2978,serbian hip hop,delete
+2979,batida,delete
+2980,boston indie,indie
+2981,diy emo,delete
+2982,north carolina emo,delete
+2983,greek techno,delete
+2984,somatik techno,delete
+2985,mexican tech house,dance
+2986,french folk pop,folk
+2987,argentine hip hop,delete
+2988,trap triste,trap
+2989,experimental r&b,delete
+2990,australian trap,trap
+2991,deep northern soul,soul
+2992,german post-rock,delete
+2993,liedermacher,delete
+2994,chinese idol pop,delete
+2995,nordnorsk musikk,delete
+2996,north dakota indie,indie
+2997,japanese alternative rock,delete
+2998,new york drill,delete
+2999,philly drill,delete
+3000,japanese orchestra,delete
+3001,ambient fusion,delete
+3002,jain bhajan,delete
+3003,jewish cantorial,delete
+3004,jazz tuba,jazz
+3005,disney svenska,delete
+3006,ryukyu ongaku,delete
+3007,trio cubano,delete
+3008,folklore quebecois,folk
+3009,kizomba,delete
+3010,kizomba antigas,delete
+3011,zouk riddim,delete
+3012,rautalanka,delete
+3013,funeral doom,delete
+3014,baroque cello,delete
+3015,classic turkish pop,delete
+3016,folklore venezolano,folk
+3017,coventry indie,indie
+3018,mexican metal,delete
+3019,accordeon,delete
+3020,danish post-punk,delete
+3021,danish singer-songwriter,delete
+3022,funk mexicano,funk
+3023,libyan pop,delete
+3024,balkan brass,delete
+3025,croatian rock,delete
+3026,argentine punk,delete
+3027,pop rock brasileiro,delete
+3028,rock gaucho,delete
+3029,vogue,delete
+3030,argentine telepop,delete
+3031,north east england indie,indie
+3032,hammered dulcimer,delete
+3033,pibroch,delete
+3034,australian classical piano,delete
+3035,japanese garage rock,delete
+3036,japanese girl punk,delete
+3037,japanese punk rock,delete
+3038,v-pop,delete
+3039,vietnamese bolero,delete
+3040,uk dancehall,delete
+3041,deep g funk,funk
+3042,texas metal,hardcore_rock
+3043,new tribe,delete
+3044,west virginia metal,hardcore_rock
+3045,ethiopian pop,delete
+3046,children's story,delete
+3047,malayalam pop,delete
+3048,italian lounge,delete
+3049,chihuahua indie,delete
+3050,gypsy punk,delete
+3051,cumbia pop,delete
+3052,world devotional,delete
+3053,pinoy trap,trap
+3054,tagalog rap,delete
+3055,southampton indie,indie
+3056,malaysian mandopop,delete
+3057,ukg revival,delete
+3058,american melodeath,delete
+3059,melodic deathcore,delete
+3060,lexington ky indie,indie
+3061,italian progressive metal,delete
+3062,desi trap,trap
+3063,pakistani hip hop,delete
+3064,venezuelan indie,delete
+3065,bulgarian pop,delete
+3066,chalga,delete
+3067,macedonian pop,delete
+3068,argentine metal,delete
+3069,maine hip hop,rap/hiphop
+3070,swiss house,delete
+3071,drone psych,delete
+3072,ambient dub techno,delete
+3073,minimal dub,delete
+3074,singaporean electronic,electro
+3075,modular techno,delete
+3076,russian techno,delete
+3077,danish experimental,delete
+3078,danish techno,delete
+3079,york indie,indie
+3080,swiss contemporary classical,delete
+3081,french contemporary classical,delete
+3082,franco-flemish school,delete
+3083,italian contemporary classical,delete
+3084,german dnb,delete
+3085,japanese indie pop,delete
+3086,pei indie,delete
+3087,mexican techno,delete
+3088,caucasian classical piano,delete
+3089,salsa cubana,delete
+3090,hardcore punk espanol,delete
+3091,indie catala,delete
+3092,musica catalana,delete
+3093,musica valenciana,delete
+3094,punk catala,delete
+3095,rock catala,delete
+3096,ska catala,ska
+3097,spanish punk,delete
+3098,venezuelan hip hop,delete
+3099,slow game,delete
+3100,euro hi-nrg,delete
+3101,australian jazz,jazz
+3102,brazilian bass,delete
+3103,azeri pop,delete
+3104,metal catala,delete
+3105,spanish post-rock,delete
+3106,german stoner rock,delete
+3107,scream rap,delete
+3108,norwegian punk rock,delete
+3109,norwegian rock,delete
+3110,progressive black metal,hardcore_rock
+3111,blackened deathcore,delete
+3112,swedish stoner rock,delete
+3113,avant-garde metal,hardcore_rock
+3114,hard bass,delete
+3115,brazilian tech house,dance
+3116,trance brasileiro,delete
+3117,ragga jungle,delete
+3118,erotica,delete
+3119,alberta hip hop,rap/hiphop
+3120,techno argentina,delete
+3121,chinese soundtrack,delete
+3122,classic bangla pop,delete
+3123,musique alsacienne,delete
+3124,folclore navarra,delete
+3125,cape breton folk,folk
+3126,musica indigena brasileira,delete
+3127,russian contemporary classical,delete
+3128,traditional funk,funk
+3129,keroncong,delete
+3130,pygmy music,delete
+3131,kabarett,delete
+3132,chamber ensemble,delete
+3133,brass quintet,delete
+3134,trinidadian reggae,reggae
+3135,rock pernambucano,delete
+3136,classic azeri pop,delete
+3137,sefardi,delete
+3138,roda de samba,delete
+3139,afrofuturismo brasileiro,delete
+3140,soviet synthpop,delete
+3141,yugoslav new wave,delete
+3142,kindermusik,delete
+3143,charango,delete
+3144,folklore boliviano,folk
+3145,joropo,delete
+3146,power blues-rock,delete
+3147,cumbia ranchera,delete
+3148,pop urbaine,delete
+3149,rap francais,delete
+3150,rap marseille,delete
+3151,cymraeg,delete
+3152,liechtenstein,delete
+3153,sound team,delete
+3154,free folk,folk
+3155,chapman stick,delete
+3156,russian metal,delete
+3157,russian punk rock,delete
+3158,indonesian alternative rock,delete
+3159,oth indie,indie
+3160,german grindcore,delete
+3161,chakra,delete
+3162,world meditation,delete
+3163,guzheng,delete
+3164,bangla pop,delete
+3165,haryanvi pop,delete
+3166,latin ska,ska
+3167,instrumental math rock,rock
+3168,swiss country,delete
+3169,classic tunisian pop,delete
+3170,tunisian pop,delete
+3171,uk noise rock,rock
+3172,israeli mediterranean,delete
+3173,lund indie,indie
+3174,hampton roads indie,indie
+3175,pinoy indie,delete
+3176,experimental house,delete
+3177,croatian hip hop,delete
+3178,danish electropop,electro
+3179,birmingham indie,indie
+3180,scottish americana,delete
+3181,manitoba indie,delete
+3182,lafayette indie,indie
+3183,guided meditation,delete
+3184,electronica argentina,electro
+3185,pop electronico,electro
+3186,scottish metal,delete
+3187,levenslied,delete
+3188,rominimal,delete
+3189,guam indie,delete
+3190,belgian dnb,delete
+3191,melodic progressive metal,hardcore_rock
+3192,minimal dubstep,delete
+3193,icelandic classical,delete
+3194,drumfunk,funk
+3195,halftime dnb,delete
+3196,breaks,delete
+3197,fijian pop,delete
+3198,persian hip hop,delete
+3199,j-idol,delete
+3200,australian r&b,delete
+3201,yoik,delete
+3202,norwegian choir,delete
+3203,popwave,pop
+3204,classic dutch pop,delete
+3205,canadian modern jazz,jazz
+3206,hungarian edm,delete
+3207,trap dominicano,trap
+3208,german melodeath,delete
+3209,oriental metal,delete
+3210,south carolina metal,hardcore_rock
+3211,hardcore breaks,delete
+3212,vermont indie,indie
+3213,scottish techno,delete
+3214,australian underground hip hop,rap/hiphop
+3215,ottawa indie,indie
+3216,kolsche karneval,delete
+3217,nuevo folklore mexicano,folk
+3218,esperanto,delete
+3219,swiss folk,folk
+3220,vintage norwegian pop,delete
+3221,baglama,delete
+3222,mluvene slovo,delete
+3223,inuit traditional,delete
+3224,lithuanian folk,folk
+3225,jazz puertorriqueno,delete
+3226,candomble,delete
+3227,indian percussion,delete
+3228,muzica crestina,delete
+3229,portuguese jazz,delete
+3230,dutch blues,delete
+3231,italian modern prog,delete
+3232,danseband,delete
+3233,brazilian contemporary classical,delete
+3234,chanson quebecois,delete
+3235,trad quebecois,delete
+3236,kora,delete
+3237,bahai,delete
+3238,russian heavy metal,delete
+3239,brazilian death metal,delete
+3240,polish alternative rock,delete
+3241,polish post-punk,delete
+3242,polish rock,delete
+3243,barnemusikk,delete
+3244,eventyr,delete
+3245,country quebecois,delete
+3246,pop quebecois,delete
+3247,cante flamenco,delete
+3248,gabonese pop,delete
+3249,ugandan pop,delete
+3250,haitian dance,delete
+3251,native american spiritual,delete
+3252,kentucky punk,delete
+3253,musica paraibana,delete
+3254,skansk musik,delete
+3255,sarod,delete
+3256,quebec death metal,hardcore_rock
+3257,technical deathcore,delete
+3258,technical melodic death metal,hardcore_rock
+3259,caracas indie,delete
+3260,cancion infantil latinoamericana,delete
+3261,classical guitar quartet,delete
+3262,swedish eurodance,delete
+3263,italian classical guitar,delete
+3264,mainland chinese pop,delete
+3265,abstract idm,delete
+3266,experimental indie rock,rock
+3267,progressive power metal,hardcore_rock
+3268,long island punk,delete
+3269,new england metal,hardcore_rock
+3270,kuduro,delete
+3271,chaotic hardcore,delete
+3272,worcester ma indie,indie
+3273,brega,delete
+3274,swedish contemporary classical,delete
+3275,swedish experimental,delete
+3276,elektropunk,delete
+3277,deep latin jazz,delete
+3278,southern americana,delete
+3279,ai,delete
+3280,musica afroperuana,delete
+3281,maine indie,indie
+3282,trap mexicano,trap
+3283,electronica venezuela,electro
+3284,deathstep,delete
+3285,dark psytrance,delete
+3286,channel pop,delete
+3287,darksynth,delete
+3288,jamtronica,delete
+3289,miami indie,indie
+3290,gundam,delete
+3291,minneapolis metal,hardcore_rock
+3292,progressive metalcore,hardcore_rock
+3293,belgian metal,delete
+3294,pianissimo,delete
+3295,trap venezolano,trap
+3296,danish indie pop,delete
+3297,rap romantico,delete
+3298,korean city pop,delete
+3299,psybreaks,delete
+3300,dutch rap pop,delete
+3301,fort worth indie,indie
+3302,korean mask singer,delete
+3303,japanese soul,soul
+3304,j-rap,delete
+3305,lo-fi cover,delete
+3306,italian pop,delete
+3307,trap italiana,trap
+3308,dutch musical,delete
+3309,cante alentejano,delete
+3310,folclore portugues,delete
+3311,brazilian ccm,delete
+3312,taiwan punk,delete
+3313,deconstructed club,delete
+3314,pop lgbtq+ brasileira,delete
+3315,rap baiano,delete
+3316,r&b brasileiro,delete
+3317,armenian hip hop,delete
+3318,dutch r&b,delete
+3319,arab alternative,delete
+3320,azeri rap,delete
+3321,kavkaz,delete
+3322,russian gangster rap,delete
+3323,russian hip hop,delete
+3324,musica popular amazonense,delete
+3325,grime brasileiro,delete
+3326,finnish indie,delete
+3327,oulu indie,delete
+3328,reggae peruano,reggae
+3329,chinese punk,delete
+3330,musica indigena latinoamericana,latin
+3331,swedish blues,delete
+3332,sinhala pop,delete
+3333,sinhala rap,delete
+3334,turkish rock,delete
+3335,turkish singer-songwriter,delete
+3336,goralski,delete
+3337,avant-garde black metal,hardcore_rock
+3338,sci-fi metal,hardcore_rock
+3339,polish folk metal,delete
+3340,malaysian indie,delete
+3341,malaysian metal,delete
+3342,musica amapaense,delete
+3343,musica popular paraense,delete
+3344,hindi indie,indie
+3345,kolkata indie,delete
+3346,derry indie,indie
+3347,rock curitibano,delete
+3348,musica campineira,delete
+3349,mestissatge,delete
+3350,reggae catala,reggae
+3351,classic nz country,delete
+3352,thai indie pop,delete
+3353,brazilian hardcore,delete
+3354,chamame brasilero,delete
+3355,musica gaucha tradicionalista,delete
+3356,nordnorsk rap,delete
+3357,swedish hip hop,delete
+3358,swedish underground rap,delete
+3359,japanese pop rap,delete
+3360,japanese trap,trap
+3361,bangladeshi rock,delete
+3362,deep german hip hop,delete
+3363,psychokore,delete
+3364,slamming deathcore,delete
+3365,south african metal,delete
+3366,traditional reggae,reggae
+3367,senegalese traditional,delete
+3368,choro contemporaneo,delete
+3369,brazilian modern jazz,delete
+3370,south african modern jazz,delete
+3371,french worship,delete
+3372,haitian gospel,gospel
+3373,musica folk asturiana,folk
+3374,spanish folk,folk
+3375,musica sinfonica,delete
+3376,cimbalom,delete
+3377,frauenrap,delete
+3378,syro-aramaic chant,delete
+3379,dark folk,folk
+3380,gospel drill,gospel
+3381,jangle rock,rock
+3382,canadian metalcore,hardcore_rock
+3383,italian doom metal,delete
+3384,australian choir,delete
+3385,pretty rhythm,delete
+3386,anime cv,delete
+3387,love live,delete
+3388,combos nacionales,delete
+3389,deep symphonic black metal,hardcore_rock
+3390,metal noir quebecois,delete
+3391,deep melodic death metal,hardcore_rock
+3392,symphonic melodic death metal,hardcore_rock
+3393,metal paraguayo,delete
+3394,paraguayan rock,delete
+3395,technical brutal death metal,hardcore_rock
+3396,german pagan metal,delete
+3397,metal galego,delete
+3398,experimental percussion,delete
+3399,indie catracho,delete
+3400,pop catracho,delete
+3401,rock catracho,delete
+3402,cocuk sarkilari,delete
+3403,maghreb,delete
+3404,detroit indie,indie
+3405,leipzig indie,delete
+3406,salzburg indie,delete
+3407,vienna indie,delete
+3408,classic finnish rock,delete
+3409,new weird finland,delete
+3410,suomi rock,delete
+3411,jazz composition,jazz
+3412,russian underground rap,delete
+3413,russian alt pop,delete
+3414,russian trap,trap
+3415,adoracao,delete
+3416,indie cristao,delete
+3417,louvor,delete
+3418,mpb gospel,gospel
+3419,musica potiguar,delete
+3420,rap potiguar,delete
+3421,norwegian blues,delete
+3422,rogaland musikk,delete
+3423,lai hla,delete
+3424,swedish post-punk,delete
+3425,indian electronic,electro
+3426,new delhi indie,delete
+3427,hi-tech,delete
+3428,hard chime,delete
+3429,vietnamese singer-songwriter,delete
+3430,brockton hip hop,rap/hiphop
+3431,belgian hip hop,delete
+3432,vlaamse rap,delete
+3433,west-vlaamse hip hop,delete
+3434,molam,delete
+3435,musica mogiana,delete
+3436,streektaal,delete
+3437,togolese pop,delete
+3438,mbira,delete
+3439,zim urban groove,delete
+3440,swansea indie,indie
+3441,jota aragonesa,delete
+3442,trot,delete
+3443,shantykoren,delete
+3444,hiplife,rap/hiphop
+3445,italogaze,delete
+3446,norwegian trap,trap
+3447,cumbia surena,delete
+3448,polish early music,delete
+3449,german indie folk,folk
+3450,german singer-songwriter,delete
+3451,indie valenciana,delete
+3452,novo rock gaucho,delete
+3453,rio grande do sul indie,delete
+3454,brazilian surf rock,delete
+3455,rap catala,delete
+3456,trap catala,trap
+3457,modern mod,delete
+3458,r&b italiano,delete
+3459,rap maromba,delete
+3460,musica costarricense,delete
+3461,reggae tico,reggae
+3462,macross,delete
+3463,uk christian rap,delete
+3464,arpa paraguaya,delete
+3465,folklore paraguayo,folk
+3466,finnish punk,delete
+3467,hjemmesnekk,delete
+3468,indie paraense,delete
+3469,rap nortista,delete
+3470,rap paraense,delete
+3471,dark black metal,hardcore_rock
+3472,epic black metal,hardcore_rock
+3473,melodic black metal,hardcore_rock
+3474,wisconsin metal,hardcore_rock
+3475,piseiro,delete
+3476,metal piauiense,delete
+3477,colorado hardcore,delete
+3478,utah metal,hardcore_rock
+3479,danish hardcore,delete
+3480,experimental indie,indie
+3481,alphorn,delete
+3482,taiwan experimental,delete
+3483,indian edm,delete
+3484,cinematic dubstep,delete
+3485,psydub,delete
+3486,darbuka,delete
+3487,polish alternative,delete
+3488,polish electronica,electro
+3489,polish indie,delete
+3490,vgm instrumental,delete
+3491,jazzy dnb,delete
+3492,hard techno,delete
+3493,australian experimental,delete
+3494,field recording,delete
+3495,sound art,delete
+3496,arab experimental,delete
+3497,electroacoustic improvisation,electro
+3498,folk siciliana,folk
+3499,zampogna,delete
+3500,luxembourgian hip hop,delete
+3501,brega funk,funk
+3502,japanese vtuber,delete
+3503,czech punk,delete
+3504,czech rock,delete
+3505,brazilian emo,delete
+3506,brazilian post-hardcore,delete
+3507,hard rock brasileiro,delete
+3508,peruvian metal,delete
+3509,greek punk,delete
+3510,greek rock,delete
+3511,manchester indie,indie
+3512,cleveland indie,indie
+3513,uzbek pop,delete
+3514,festigal,delete
+3515,indonesian shoegaze,delete
+3516,southeast asian post-rock,delete
+3517,viola da gamba,delete
+3518,japanese blues,delete
+3519,japanese indie folk,folk
+3520,mexican son,delete
+3521,son jarocho,delete
+3522,galician rock,delete
+3523,punk galego,delete
+3524,rap galego,delete
+3525,japanese chill rap,delete
+3526,brazilian gospel,gospel
+3527,hinos ccb,delete
+3528,mississippi indie,indie
+3529,rap alagoano,delete
+3530,deep funk ostentacao,funk
+3531,baluchi folk,folk
+3532,rap underground argentino,delete
+3533,kurdish pop,delete
+3534,rap gaucho,delete
+3535,reggae gaucho,reggae
+3536,german reggae,reggae
+3537,mundart,delete
+3538,schweizer rap,delete
+3539,swiss hip hop,delete
+3540,swiss indie,delete
+3541,swiss reggae,reggae
+3542,tuareg guitar,delete
+3543,forro gospel,gospel
+3544,sertanejo gospel,gospel
+3545,israeli trap,trap
+3546,polish black metal,delete
+3547,marathi pop,delete
+3548,neomelodici,delete
+3549,kurdish folk,folk
+3550,arab metal,hardcore_rock
+3551,king of prism,delete
+3552,folk black metal,delete
+3553,progressive thrash,hardcore_rock
+3554,finnish heavy metal,delete
+3555,finnish progressive metal,delete
+3556,igbo traditional,delete
+3557,heavy alternative,delete
+3558,colombian hardcore,delete
+3559,mexican power metal,delete
+3560,french renaissance,delete
+3561,mpgjr,delete
+3562,chill out,delete
+3563,gayageum,delete
+3564,korean traditional,delete
+3565,lowercase,delete
+3566,gamecore,delete
+3567,korean phantom singer,delete
+3568,grim death metal,hardcore_rock
+3569,hip hop quebecois,delete
+3570,coldwave,delete
+3571,noise,delete
+3572,power electronics,electro
+3573,musica roraimense,delete
+3574,south african electronic,electro
+3575,sound collage,delete
+3576,japanese progressive house,delete
+3577,alt-idol,delete
+3578,rock abc paulista,delete
+3579,taiwanese pop,delete
+3580,deep folk metal,delete
+3581,canadian shoegaze,delete
+3582,aussie drill,delete
+3583,catalan folk,folk
+3584,musica menorquina,delete
+3585,pinoy pop punk,delete
+3586,apostolic worship,delete
+3587,trap chileno,trap
+3588,zambian hip hop,delete
+3589,zambian pop,delete
+3590,rap paranaense,delete
+3591,trap brasileiro,trap
+3592,baltic black metal,delete
+3593,latvian folk,folk
+3594,latvian metal,delete
+3595,slavic metal,delete
+3596,norwegian psychedelic,delete
+3597,hungarian black metal,delete
+3598,hungarian metal,delete
+3599,a3,delete
+3600,math rock latinoamericano,delete
+3601,tecnobrega,delete
+3602,emo rap italiano,rap/hiphop
+3603,cuban alternative,delete
+3604,korean hardcore,delete
+3605,korean metal,delete
+3606,korean punk,delete
+3607,arabic hip hop,delete
+3608,rap tunisien,delete
+3609,algerian folk,folk
+3610,chaabi algerien,delete
+3611,uk stoner rock,rock
+3612,modern jangle pop,delete
+3613,musique guadeloupe,delete
+3614,asakaa,delete
+3615,romanian contemporary classical,delete
+3616,finnish tango,delete
+3617,norwegian country,delete
+3618,norwegian folk rock,delete
+3619,punk urbano,delete
+3620,rock en asturiano,delete
+3621,deep melodic metalcore,hardcore_rock
+3622,musique comorienne,delete
+3623,musique traditionnelle comorienne,delete
+3624,ulkucu sarkilar,delete
+3625,french post-rock,delete
+3626,kentucky metal,hardcore_rock
+3627,folklore veracruzano,folk
+3628,latin surf rock,delete
+3629,polish experimental electronic,electro
+3630,prog metal,hardcore_rock
+3631,greek metal,delete
+3632,canadian stoner rock,rock
+3633,folk metal latinoamericano,delete
+3634,mexican black metal,delete
+3635,french black metal,delete
+3636,bible,delete
+3637,concertina,delete
+3638,irish accordion,delete
+3639,musica evangelica instrumental,delete
+3640,swiss singer-songwriter,delete
+3641,bagpipe,delete
+3642,bagpipe marching band,delete
+3643,military band,delete
+3644,vanuatu music,delete
+3645,japanese choir,delete
+3646,puglia indie,delete
+3647,bhutanese pop,delete
+3648,thai trap,trap
+3649,polynesian traditional,delete
+3650,troubadour,delete
+3651,medieval ensemble,delete
+3652,experimental jazz,jazz
+3653,modern free jazz,jazz
+3654,deep space rock,rock
+3655,bass trip,delete
+3656,instrumental lullaby,delete
+3657,makina,delete
+3658,cuban electronic,electro
+3659,antideutsche,delete
+3660,touken ranbu,delete
+3661,guadalajara indie,delete
+3662,indie rock mexicano,delete
+3663,russian shoegaze,delete
+3664,raw techno,delete
+3665,techno rave,delete
+3666,deep italo disco,delete
+3667,bothy ballad,delete
+3668,polish experimental,delete
+3669,polish post-rock,delete
+3670,polish psychedelia,delete
+3671,classical tuba,delete
+3672,african metal,delete
+3673,finnish progressive rock,delete
+3674,musique acadienne,delete
+3675,peruvian hip hop,delete
+3676,brega romantico,delete
+3677,forro de favela,delete
+3678,musica maranhense,delete
+3679,finnish dance pop,delete
+3680,finnish idol pop,delete
+3681,finnish pop,delete
+3682,drill francais,delete
+3683,rap calme,delete
+3684,portuguese indie,delete
+3685,portuguese post-rock,delete
+3686,kritika,delete
+3687,congolese gospel,gospel
+3688,piada,delete
+3689,deep brazilian pop,delete
+3690,classical guitar duo,delete
+3691,kalmar musik,delete
+3692,rain,delete
+3693,novos talentos brasileiros,delete
+3694,benga,delete
+3695,bongo flava,delete
+3696,tanzanian pop,delete
+3697,christian afrobeat,delete
+3698,shabad,delete
+3699,balfolk,folk
+3700,finnish folk,folk
+3701,nyckelharpa,delete
+3702,maloya,delete
+3703,sega,delete
+3704,israeli punk,delete
+3705,musica crista reformada,delete
+3706,rock gospel brasileiro,delete
+3707,indonesian indie rock,delete
+3708,musica santomense,delete
+3709,portuguese pop,delete
+3710,musica angolana,delete
+3711,semba,delete
+3712,australian post-hardcore,delete
+3713,irish death metal,delete
+3714,irish metal,delete
+3715,atmospheric doom,delete
+3716,canadian black metal,hardcore_rock
+3717,oulu metal,delete
+3718,plena uruguaya,delete
+3719,death doom,delete
+3720,swedish grindcore,delete
+3721,korean experimental,delete
+3722,japanese post-rock,delete
+3723,zespol dzieciecy,delete
+3724,uae indie,delete
+3725,experimental synth,delete
+3726,irish indie rock,delete
+3727,siberian folk,folk
+3728,throat singing,delete
+3729,tuvan folk,folk
+3730,danish indie,delete
+3731,dansk lovsang,delete
+3732,bal-musette,delete
+3733,jaw harp,delete
+3734,oyun havasi,delete
+3735,turkish instrumental,delete
+3736,turkish soundtrack,delete
+3737,central asian folk,folk
+3738,kazakh traditional,delete
+3739,japanese math rock,delete
+3740,indie nica,delete
+3741,electroacoustic composition,electro
+3742,dutch dnb,delete
+3743,tassie indie,delete
+3744,downtempo fusion,delete
+3745,experimental classical,delete
+3746,wandelweiser,delete
+3747,argentine hardcore,delete
+3748,men's choir,delete
+3749,welsh choir,delete
+3750,mindfulness,delete
+3751,russian death metal,delete
+3752,slam death metal,hardcore_rock
+3753,rap lyonnais,delete
+3754,bozlak,delete
+3755,russian post-rock,delete
+3756,lesotho traditional,delete
+3757,montana indie,indie
+3758,montana roots,delete
+3759,khaliji,delete
+3760,jazz caraibes,jazz
+3761,norwegian americana,delete
+3762,rap espanol,delete
+3763,classic anime,delete
+3764,super sentai,delete
+3765,lezginka,delete
+3766,vintage radio show,delete
+3767,peruvian punk,delete
+3768,cuento infantile,delete
+3769,samba paulista,delete
+3770,portuguese folk,folk
+3771,tuna,delete
+3772,diy pop punk,delete
+3773,black death,delete
+3774,charred death,delete
+3775,austrian metal,hardcore_rock
+3776,rap maroc,delete
+3777,israeli metal,delete
+3778,finnish hardcore,delete
+3779,spanish death metal,delete
+3780,south asian metal,delete
+3781,tamburica,delete
+3782,remix product,delete
+3783,deep breakcore,delete
+3784,finnish techno,delete
+3785,nz metal,delete
+3786,voidgrind,delete
+3787,war metal,hardcore_rock
+3788,cavernous death metal,hardcore_rock
+3789,italian metalcore,delete
+3790,shoegaze chileno,delete
+3791,austrian dnb,delete
+3792,indie salvadoreno,delete
+3793,metal salvadoreno,delete
+3794,rock alagoano,delete
+3795,sinaloa indie,delete
+3796,comptine,delete
+3797,deep sunset lounge,delete
+3798,african electronic,electro
+3799,balinese traditional,delete
+3800,bulgarian rock,delete
+3801,classic bulgarian pop,delete
+3802,italian industrial,delete
+3803,indonesian psychedelia,delete
+3804,musik anak-anak,delete
+3805,musica ponta-grossense,delete
+3806,rock progresivo mexicano,delete
+3807,paracana,delete
+3808,rap metalcore,hardcore_rock
+3809,iranian experimental,delete
+3810,persian neo-traditional,delete
+3811,pony,delete
+3812,indie liguria,delete
+3813,turin indie,delete
+3814,turkish metal,delete
+3815,neo-industrial rock,delete
+3816,cascadian black metal,hardcore_rock
+3817,chaotic black metal,hardcore_rock
+3818,portland metal,hardcore_rock
+3819,instrumental black metal,hardcore_rock
+3820,indie deutschrap,delete
+3821,slovak folk,folk
+3822,slovak indie,delete
+3823,bruneian pop,delete
+3824,essex indie,indie
+3825,bisrock,delete
+3826,vispop,delete
+3827,turkish alternative,delete
+3828,turkish punk,delete
+3829,experimental bass,delete
+3830,asheville indie,indie
+3831,turkce trap metal,delete
+3832,indian techno,delete
+3833,comptine africaine,delete
+3834,musica sergipana,delete
+3835,rock sergipano,delete
+3836,balalaika,delete
+3837,kazakh indie,delete
+3838,kazakh pop,delete
+3839,slovak rock,delete
+3840,musica piauiense,delete
+3841,rock piauiense,delete
+3842,indie platense,delete
+3843,malmo indie,delete
+3844,language,delete
+3845,coral gospel,gospel
+3846,swahili gospel,gospel
+3847,rock cearense,delete
+3848,dutch black metal,delete
+3849,arkansas metal,hardcore_rock
+3850,tuna estudiantil,delete
+3851,usbm,delete
+3852,ars subtilior,delete
+3853,trecento,delete
+3854,metal cristao,delete
+3855,rock cristao fluminense,delete
+3856,mexican thrash metal,delete
+3857,rkt,delete
+3858,bulgarian folk,folk
+3859,kaba gaida,delete
+3860,marrabenta,delete
+3861,musica mocambicana,delete
+3862,pop virale italiano,delete
+3863,italian stoner rock,delete
+3864,metal colombiano,delete
+3865,funk capixaba,funk
+3866,rave funk,funk
+3867,spanish jazz,delete
+3868,folklore uruguayo,folk
+3869,musica popular uruguaya,delete
+3870,fluxwork,delete
+3871,swedish metalcore,delete
+3872,progressive technical death metal,hardcore_rock
+3873,cypriot metal,delete
+3874,melodic power metal,hardcore_rock
+3875,normal indie,indie
+3876,indie canario,delete
+3877,swiss alternative rock,delete
+3878,nova musica paulista,delete
+3879,inuit pop,delete
+3880,gypsy fusion,delete
+3881,avant-rock,delete
+3882,rock in opposition,delete
+3883,slovenian indie,delete
+3884,slovenian rock,delete
+3885,neurostep,delete
+3886,polish synthpop,delete
+3887,electro-pop francais,electro
+3888,danish contemporary classical,delete
+3889,dc indie,indie
+3890,mongolian folk,folk
+3891,austrian hip hop,rap/hiphop
+3892,russian emo rap,delete
+3893,indie viet,delete
+3894,rock viet,delete
+3895,deep psytrance,delete
+3896,nice indie,indie
+3897,neo soul-jazz,soul
+3898,mexican electronic,electro
+3899,musicas espiritas,delete
+3900,andean flute,delete
+3901,romanian indie,delete
+3902,nz electronic,electro
+3903,swedish emo,delete
+3904,neo metal,hardcore_rock
+3905,russian indie,delete
+3906,russian indie rock,delete
+3907,indonesian hardcore,delete
+3908,indonesian metal,delete
+3909,chinese manyao,delete
+3910,galego,delete
+3911,galician jazz,delete
+3912,himene tarava,delete
+3913,canadian indigenous hip hop,rap/hiphop
+3914,indie tico,delete
+3915,chattanooga indie,delete
+3916,punk ska,ska
+3917,psybass,delete
+3918,dark electro-industrial,electro
+3919,experimental psych,delete
+3920,manso indie,indie
+3921,musica puntana,delete
+3922,hamburg indie,delete
+3923,hamburger schule,delete
+3924,italian hardcore,delete
+3925,korean dream pop,delete
+3926,beatdown,delete
+3927,slovenian pop,delete
+3928,deep turkish pop,delete
+3929,aarhus indie,indie
+3930,norwegian gospel,gospel
+3931,svensk lovsang,delete
+3932,indonesian death metal,delete
+3933,indonesian deathcore,delete
+3934,indonesian post-hardcore,delete
+3935,australian death metal,hardcore_rock
+3936,australian metal,hardcore_rock
+3937,latincore,latin
+3938,math pop,delete
+3939,cumbia santafesina,delete
+3940,croatian metal,delete
+3941,starogradska,delete
+3942,dark rock,rock
+3943,albanian iso polyphony,delete
+3944,cantonese traditional,delete
+3945,dark ambient,delete
+3946,dronescape,delete
+3947,deep active rock,rock
+3948,austrian contemporary classical,delete
+3949,ruta destroy,delete
+3950,argentine alternative rock,delete
+3951,indie cordoba,delete
+3952,corsican folk,folk
+3953,polyphonies corses,delete
+3954,graz indie,delete
+3955,volkspop,delete
+3956,italian occult psychedelia,delete
+3957,san antonio rap,rap/hiphop
+3958,spanish noise pop,delete
+3959,spanish post-punk,delete
+3960,marimba mexicana,delete
+3961,marimba orquesta,delete
+3962,wrock,delete
+3963,fremantle indie,indie
+3964,musica maringaense,delete
+3965,argentine jazz,delete
+3966,native american hip hop,rap/hiphop
+3967,musica timor-leste,delete
+3968,enka,delete
+3969,min'yo,delete
+3970,shamisen,delete
+3971,folclore castilla y leon,delete
+3972,aggro chileno,delete
+3973,punk chileno,delete
+3974,uk contemporary jazz,jazz
+3975,shush,delete
+3976,croatian indie,delete
+3977,sevilla indie,delete
+3978,spanish psychedelic rock,delete
+3979,gospel italiano,gospel
+3980,japanese boom bap,delete
+3981,japanese underground rap,delete
+3982,illbient,delete
+3983,glitch beats,delete
+3984,medway sound,delete
+3985,austrian pop,delete
+3986,milan indie,delete
+3987,bolivian rock,delete
+3988,indie boliviano,delete
+3989,thai indie rock,delete
+3990,andalusian classical,delete
+3991,indie emo rock,rock
+3992,indie rock italiano,delete
+3993,rap regio,delete
+3994,irish contemporary classical,delete
+3995,musica campista,delete
+3996,lo-fi brasileiro,delete
+3997,acidcore,delete
+3998,rock tico,delete
+3999,musica feirense,delete
+4000,egyptian alternative,delete
+4001,egyptian hip hop,delete
+4002,guatemalan metal,delete
+4003,brazilian post-rock,delete
+4004,russian viral pop,delete
+4005,danish punk,delete
+4006,lithuanian edm,delete
+4007,ryukoka,delete
+4008,jazz tico,delete
+4009,disney espanol,delete
+4010,burmese pop,delete
+4011,myanmar indie,delete
+4012,cantautor catala,delete
+4013,musica mallorquina,delete
+4014,indonesian indie pop,delete
+4015,twee indie pop,indie
+4016,russian rave,delete
+4017,corridos cristianos,delete
+4018,post-punk mexicano,delete
+4019,chinderlieder,delete
+4020,santur,delete
+4021,rock goiano,delete
+4022,kaseko,delete
+4023,russian hardcore,delete
+4024,russian pop punk,delete
+4025,rakugo,delete
+4026,ecuadorian alternative rock,delete
+4027,metal ecuatoriano,delete
+4028,latin american heavy psych,delete
+4029,puerto rican metal,delete
+4030,birdsong,delete
+4031,nordnorsk ponk,delete
+4032,norwegian alternative rock,delete
+4033,tennessee metal,hardcore_rock
+4034,modern progressive rock,rock
+4035,neo-trad prog,delete
+4036,drone ambient,delete
+4037,metal uruguayo,delete
+4038,rock uruguayo,delete
+4039,austrian black metal,delete
+4040,c64,delete
+4041,demoscene,delete
+4042,poezja spiewana,delete
+4043,polish folk,folk
+4044,isle of wight indie,indie
+4045,houston indie,indie
+4046,zeuhl,delete
+4047,okinawan folk,folk
+4048,nasheed,delete
+4049,nasyid,delete
+4050,sholawat,delete
+4051,classic danish rock,rock
+4052,northeast indian hip hop,delete
+4053,minnesang,delete
+4054,musica mapuche,delete
+4055,nueva trova chilena,delete
+4056,portsmouth indie,indie
+4057,manele,delete
+4058,russian romance,delete
+4059,rock paraibano,delete
+4060,indie pop rock,rock
+4061,chinese drama ost,delete
+4062,finnish hip hop,delete
+4063,finnish reggae,reggae
+4064,taiwan idol pop,delete
+4065,bosnian indie,delete
+4066,indie siciliano,delete
+4067,necrogrind,delete
+4068,pop teen brasileiro,delete
+4069,via,delete
+4070,finnish electronic,electro
+4071,grimewave,delete
+4072,post-rock latinoamericano,delete
+4073,rap catarinense,delete
+4074,rap df,delete
+4075,rap mineiro,delete
+4076,trap baiano,trap
+4077,hip hop tuga,delete
+4078,rap portuense,delete
+4079,mazandarani folk,folk
+4080,rap metal espanol,hardcore_rock
+4081,naat,delete
+4082,indie extremena,delete
+4083,ska espanol,ska
+4084,flamenco fusion,delete
+4085,rock alternativo espanol,delete
+4086,spanish progressive rock,delete
+4087,italian rockabilly,delete
+4088,thai pop rap,delete
+4089,turkish trap pop,trap
+4090,brazilian heavy metal,delete
+4091,german contemporary classical,delete
+4092,euskal indie,delete
+4093,rap euskera,delete
+4094,disney dansk,delete
+4095,experimental big band,delete
+4096,scottish gaelic folk,folk
+4097,dundee indie,indie
+4098,scottish indie rock,delete
+4099,german post-punk,delete
+4100,stuttgart indie,delete
+4101,sega mauricien,delete
+4102,calgary indie,indie
+4103,brazilian indie rock,delete
+4104,shoegaze brasileiro,delete
+4105,dangdut remix,delete
+4106,lagu aceh,delete
+4107,stomp and whittle,delete
+4108,pinoy idol pop,delete
+4109,chill pop,delete
+4110,punjabi hip hop,delete
+4111,hindi hip hop,delete
+4112,japanese death metal,delete
+4113,new wave of glam metal,hardcore_rock
+4114,western ny metal,hardcore_rock
+4115,new wave of osdm,delete
+4116,honeyworks,delete
+4117,folklore panameno,folk
+4118,malaysian punk,delete
+4119,rumba catalana,delete
+4120,modern enka,delete
+4121,belgian post-rock,delete
+4122,belgian stoner rock,delete
+4123,iranian metal,delete
+4124,fuji,delete
+4125,acid idm,delete
+4126,chinese electronic,electro
+4127,chinese experimental,delete
+4128,hangpan,delete
+4129,zim hip hop,delete
+4130,zimdancehall,delete
+4131,murcia indie,delete
+4132,japanese worship,delete
+4133,classic portuguese pop,delete
+4134,musica de intervencao,delete
+4135,kantele,delete
+4136,musiikkia lapsille,delete
+4137,taiwan electronic,electro
+4138,telugu hip hop,delete
+4139,telugu indie,delete
+4140,uk post-punk revival,delete
+4141,wellington indie,indie
+4142,nepali pop,delete
+4143,nephop,delete
+4144,bulgarian hip hop,delete
+4145,h8000,delete
+4146,batidao romantico,delete
+4147,indie hidalguense,delete
+4148,arkansas indie,indie
+4149,indonesian jazz,delete
+4150,indonesian reggae,reggae
+4151,tijuana indie,delete
+4152,west yorkshire indie,indie
+4153,trombone brasileiro,delete
+4154,rap cristao,delete
+4155,trap cristao,trap
+4156,ghanaian alternative,delete
+4157,lithuanian hip hop,delete
+4158,lithuanian pop,delete
+4159,italo beats,delete
+4160,musica lombarda,delete
+4161,swedish idol pop,delete
+4162,musica mato-grossense,delete
+4163,nova musica carioca,delete
+4164,indie michoacano,delete
+4165,brasilia indie,delete
+4166,karneval,delete
+4167,malian traditional,delete
+4168,balafon,delete
+4169,rap baixada fluminense,delete
+4170,trap carioca,trap
+4171,trap funk,funk
+4172,balkan hip hop,delete
+4173,mevlevi sufi,delete
+4174,gospel rap,gospel
+4175,sundanese traditional,delete
+4176,pinoy r&b,delete
+4177,georgian alternative,delete
+4178,chant basque,delete
+4179,musica occitana,delete
+4180,norwegian house,delete
+4181,russian electronic,electro
+4182,russian experimental electronic,electro
+4183,australian comedy,delete
+4184,nepali indie,delete
+4185,devon indie,indie
+4186,norwegian prog,delete
+4187,colombian indie,delete
+4188,indie rock colombiano,delete
+4189,finnish soul,soul
+4190,spiritual hip hop,delete
+4191,palestinian pop,delete
+4192,deep discofox,delete
+4193,junior eurovision,delete
+4194,cimbalova muzika,delete
+4195,chinese jazz,delete
+4196,sung poetry,delete
+4197,bury st edmunds indie,indie
+4198,east anglia indie,indie
+4199,rock dominicano,delete
+4200,suomirap,delete
+4201,trap colombiano,trap
+4202,boom bap brasileiro,delete
+4203,funk ostentacao,funk
+4204,rap abc paulista,delete
+4205,rap nacional antigo,delete
+4206,svensk indie,delete
+4207,turkish alt pop,delete
+4208,rap cearense,delete
+4209,antilliaanse rap,delete
+4210,experimental black metal,hardcore_rock
+4211,pop minang,delete
+4212,spanish contemporary classical,delete
+4213,kapa haka,delete
+4214,waiata maori,delete
+4215,trondersk musikk,delete
+4216,neo-proto,delete
+4217,cantonese opera,delete
+4218,pop costarricense,delete
+4219,russian drill,delete
+4220,russian grime,delete
+4221,cerkes muzikleri,delete
+4222,circassian folk,folk
+4223,german cloud rap,delete
+4224,german trap,trap
+4225,lustrum,delete
+4226,german r&b,delete
+4227,kuduro antigo,delete
+4228,ngoni,delete
+4229,post-post-hardcore,delete
+4230,ensemble stars,delete
+4231,salay,delete
+4232,trio huasteco,delete
+4233,luxembourgian metal,delete
+4234,swedish pop punk,delete
+4235,italian folk metal,delete
+4236,eletronica underground brasileira,delete
+4237,greek downtempo,delete
+4238,convent,delete
+4239,swedish classical,delete
+4240,vlaamse cabaret,delete
+4241,vlaamse kinderliedje,delete
+4242,raggatek,delete
+4243,tekno,delete
+4244,polish blues,delete
+4245,zim gospel,gospel
+4246,manitoba country,delete
+4247,candombe,delete
+4248,glasgow indie,delete
+4249,brazilian rockabilly,delete
+4250,korean underground rap,delete
+4251,png pop,delete
+4252,solomon islands pop,delete
+4253,greek psychedelic rock,delete
+4254,swedish reggae,reggae
+4255,swedish trap pop,trap
+4256,swedish gangsta rap,delete
+4257,tanzanian traditional,delete
+4258,pune indie,delete
+4259,swedish folk pop,folk
+4260,galway indie,delete
+4261,canadian death metal,hardcore_rock
+4262,gnawa,delete
+4263,lithuanian rock,delete
+4264,malayalam hip hop,delete
+4265,german drill,delete
+4266,austin hip hop,rap/hiphop
+4267,cybergrind,delete
+4268,chinese minyao,delete
+4269,chinese singer-songwriter,delete
+4270,indonesian blues,delete
+4271,greek drill,delete
+4272,nz folk,folk
+4273,malagasy folk,folk
+4274,malagasy pop,delete
+4275,pop rap brasileiro,delete
+4276,west australian hip hop,delete
+4277,italian underground hip hop,delete
+4278,rome indie,delete
+4279,canadian psychedelic rock,rock
+4280,chinese new year,delete
+4281,persian alternative,delete
+4282,dub brasileiro,delete
+4283,drone rock,rock
+4284,south african deep house,delete
+4285,hawaiian punk,delete
+4286,musica brasiliense,delete
+4287,st petersburg fl indie,indie
+4288,spanish folk rock,delete
+4289,dangdut koplo,delete
+4290,carimbo,delete
+4291,magyar mulatos,delete
+4292,italian emo,delete
+4293,italian post-hardcore,delete
+4294,afrobeat fusion,delete
+4295,ukrainian hip hop,delete
+4296,dutch drill,delete
+4297,rap sardegna,delete
+4298,actors,delete
+4299,irish rebel song,delete
+4300,death industrial,delete
+4301,italian reggae,reggae
+4302,garage rock mexicano,delete
+4303,birmingham hip hop,delete
+4304,kansas hip hop,delete
+4305,tanci,delete
+4306,turkish hip hop,delete
+4307,turkish trap,trap
+4308,paraguayan indie,delete
+4309,pop paraguayo,delete
+4310,rap paraguayo,delete
+4311,afro-cuban traditional,delete
+4312,pipa,delete
+4313,disney portugues,delete
+4314,musica paranaense,delete
+4315,rwandan gospel,gospel
+4316,hungarian hip hop,delete
+4317,magyar trap,trap
+4318,swedish drill,delete
+4319,swedish trap,trap
+4320,balkan trap,trap
+4321,malayalam worship,delete
+4322,sesotho pop,delete
+4323,musique mandingue,delete
+4324,metal pernambucano,delete
+4325,huayno popular,delete
+4326,denver metal,hardcore_rock
+4327,japanese black metal,delete
+4328,chinese wind,delete
+4329,mexican death metal,delete
+4330,polish death metal,delete
+4331,belgian punk,delete
+4332,belgian black metal,delete
+4333,traditional scottish folk,folk
+4334,dub product,delete
+4335,yunnan traditional,delete
+4336,indie emo,indie
+4337,jersey club,delete
+4338,vapor house,delete
+4339,korean soundtrack,delete
+4340,virginia indie,indie
+4341,backing track,delete
+4342,latin shoegaze,delete
+4343,polish choir,delete
+4344,uwielbienie,delete
+4345,hindi worship,delete
+4346,israeli jazz,delete
+4347,newfoundland indie,indie
+4348,norske viser,delete
+4349,viola caipira,delete
+4350,austrian stoner rock,delete
+4351,classic sinhala pop,delete
+4352,south african trap,trap
+4353,umea indie,delete
+4354,dweilorkest,delete
+4355,disney norsk,delete
+4356,michigan folk,folk
+4357,música pitiusa,delete
+4358,electro bailando,electro
+4359,flamenco urbano,delete
+4360,klapa,delete
+4361,orquesta tropical,delete
+4362,japanese disney,delete
+4363,kikuyu pop,delete
+4364,burkinabe traditional,delete
+4365,adelaide indie,indie
+4366,indonesian idol pop,delete
+4367,turkish alternative rock,delete
+4368,kurdish rock,delete
+4369,blackened hardcore,delete
+4370,dutch trap,trap
+4371,musique soninke,delete
+4372,brazilian progressive metal,delete
+4373,thall,delete
+4374,edinburgh metal,delete
+4375,jalsat,delete
+4376,fallen angel,delete
+4377,japanese post-punk,delete
+4378,indie sudcaliforniano,indie
+4379,gothic doom,delete
+4380,icelandic traditional,delete
+4381,dombra,delete
+4382,hamilton on indie,indie
+4383,trouvere,delete
+4384,classical saxophone quartet,delete
+4385,south african punk,delete
+4386,finnish experimental,delete
+4387,experimental dub,delete
+4388,british electroacoustic,electro
+4389,maldivian pop,delete
+4390,cumbia boliviana,delete
+4391,musica capixaba,delete
+4392,musica triste brasileira,delete
+4393,rap capixaba,delete
+4394,bells,delete
+4395,heavy gothic rock,delete
+4396,indie nordeste argentino,delete
+4397,deep swedish rock,delete
+4398,kosovan folk,folk
+4399,massage,delete
+4400,dutch underground hip hop,delete
+4401,gengetone,delete
+4402,kenyan hip hop,delete
+4403,kenyan pop,delete
+4404,rap liegeois,delete
+4405,australian americana,delete
+4406,rap underground espanol,delete
+4407,little rock indie,delete
+4408,slovenian hip hop,delete
+4409,spanish prog,delete
+4410,quebec punk,delete
+4411,rock quebecois,delete
+4412,finnish rockabilly,delete
+4413,botswana pop,delete
+4414,christlicher rap,delete
+4415,german worship,delete
+4416,polish hip hop,delete
+4417,polish trap,trap
+4418,russian emo,delete
+4419,spanish black metal,delete
+4420,new wave of speed metal,hardcore_rock
+4421,metal cearense,delete
+4422,cryptic black metal,hardcore_rock
+4423,cueca chilena,delete
+4424,whale song,delete
+4425,italian heavy metal,delete
+4426,french hardcore,delete
+4427,taiwan metal,delete
+4428,taiwan hip hop,delete
+4429,indie campechano,delete
+4430,greek indie rock,delete
+4431,classical percussion,delete
+4432,dusseldorf indie,delete
+4433,leipzig electronic,electro
+4434,fisarmonica,delete
+4435,indie arequipeno,delete
+4436,organetto,delete
+4437,mandible,delete
+4438,experimental club,delete
+4439,purple sound,delete
+4440,hungarian pop,delete
+4441,classical trombone,delete
+4442,ainu folk,folk
+4443,ecuadorian indie,delete
+4444,bernu dziesmas,delete
+4445,estonian metal,delete
+4446,estonian rock,delete
+4447,forro instrumental,delete
+4448,sanfona,delete
+4449,dancehall colombiano,delete
+4450,folclore santiagueno,delete
+4451,irish neo-traditional,delete
+4452,rock caipira,delete
+4453,coupe-decale,delete
+4454,zouglou,delete
+4455,rap ivoire,delete
+4456,italian post-rock,delete
+4457,trinibad,delete
+4458,faroese rock,delete
+4459,canberra indie,indie
+4460,spanish modern rock,delete
+4461,musica goiana,delete
+4462,balkan folk metal,delete
+4463,romanian metal,delete
+4464,alternative metalcore,hardcore_rock
+4465,german hardcore,delete
+4466,cantonese worship,delete
+4467,shojo,delete
+4468,smutny rap,rap/hiphop
+4469,punk ecuatoriano,delete
+4470,beach house,delete
+4471,nz hardcore,delete
+4472,nz punk,delete
+4473,belfast metal,delete
+4474,polish metal,delete
+4475,punk melodico chileno,delete
+4476,danish death metal,delete
+4477,deep ambient,delete
+4478,malay rap,delete
+4479,kinderchor,delete
+4480,slash punk,delete
+4481,harmonikka,delete
+4482,multidisciplinary,delete
+4483,paidika tragoudia,delete
+4484,gambian pop,delete
+4485,tamaulipas rap,delete
+4486,cocuk masallari,delete
+4487,byzantine,delete
+4488,rajasthani folk,folk
+4489,moorish traditional,delete
+4490,deep metalcore,hardcore_rock
+4491,austin rock,rock
+4492,reggae mexicano,reggae
+4493,swiss trap,trap
+4494,jazz dominicano,delete
+4495,spanish blues,delete
+4496,indie singer-songwriter,indie
+4497,deep indie singer-songwriter,indie
+4498,kwaito,delete
+4499,guggenmusik,delete
+4500,kurdish hip hop,delete
+4501,taraneem,delete
+4502,bandinhas,delete
+4503,musica gaucha,delete
+4504,kosovan pop,delete
+4505,cape breton indie,delete
+4506,screamocore,delete
+4507,rap feminino nacional,delete
+4508,hypnosis,delete
+4509,bulgarian indie,delete
+4510,nu electro,electro
+4511,yemeni traditional,delete
+4512,rock noise,rock
+4513,taiwan instrumental,delete
+4514,pasodobles,delete
+4515,electro dub,electro
+4516,french dub,delete
+4517,indonesian ska,ska
+4518,indie hidrocalido,delete
+4519,icelandic choir,delete
+4520,garage punk blues,delete
+4521,japanoise,delete
+4522,tribute,delete
+4523,pinoy edm,delete
+4524,neotango,delete
+4525,tibetan traditional,delete
+4526,viet lo-fi,delete
+4527,polish reggae,reggae
+4528,italian choir,delete
+4529,phoenix indie,indie
+4530,brazilian stoner rock,delete
+4531,lovecraftian metal,hardcore_rock
+4532,czsk black metal,delete
+4533,slovak metal,delete
+4534,garifuna folk,folk
+4535,norwegian doom metal,delete
+4536,disney russian,delete
+4537,russian nu metal,delete
+4538,sakura wars,delete
+4539,pinoy singer-songwriter,delete
+4540,burkinabe pop,delete
+4541,belarusian metal,delete
+4542,musica purepecha,delete
+4543,deep rai,delete
+4544,musique mariage algerien,delete
+4545,rap montrealais,delete
+4546,mambo chileno,delete
+4547,reggaeton chileno,latin
+4548,australian shoegaze,delete
+4549,arpa grande,delete
+4550,thrash-groove metal,hardcore_rock
+4551,deep vocal jazz,jazz
+4552,rap antillais,delete
+4553,indonesian electronic,electro
+4554,idol game,delete
+4555,icelandic black metal,delete
+4556,icelandic metal,delete
+4557,metalcore espanol,delete
+4558,fnf,delete
+4559,grisly death metal,hardcore_rock
+4560,marcha funebre,delete
+4561,lao traditional,delete
+4562,basque folk,folk
+4563,hull indie,indie
+4564,deep jazz fusion,jazz
+4565,italian jazz fusion,delete
+4566,detski pesnichki,delete
+4567,ethereal gothic,delete
+4568,vintage reggae,reggae
+4569,blaskapelle,delete
+4570,blasmusik,delete
+4571,abstractro,delete
+4572,latvian hip hop,delete
+4573,latvian indie,delete
+4574,deep gothic post-punk,delete
+4575,sardinia indie,delete
+4576,leon gto indie,delete
+4577,marimba,delete
+4578,icelandic jazz,delete
+4579,barnalog,delete
+4580,kamen rider,delete
+4581,terrorcore,delete
+4582,tavern,delete
+4583,chinese post-punk,delete
+4584,stubenmusik,delete
+4585,trekkspill,delete
+4586,indonesian bamboo,delete
+4587,hmong pop,delete
+4588,cambodian traditional,delete
+4589,nuevo folklore argentino,folk
+4590,winnipeg hip hop,rap/hiphop
+4591,tajik pop,delete
+4592,uk diy punk,delete
+4593,swedish rockabilly,delete
+4594,rap belge,delete
+4595,new orleans americana,delete
+4596,euskal rock,delete
+4597,javanese dangdut,delete
+4598,lagu jawa,delete
+4599,black speed metal,hardcore_rock
+4600,hypnosis mic,delete
+4601,comedienne,delete
+4602,indonesian emo,delete
+4603,spanish stoner rock,delete
+4604,forro manauara,delete
+4605,rwandan pop,delete
+4606,turkish electronic,electro
+4607,tajik traditional,delete
+4608,estonian indie,delete
+4609,early french punk,delete
+4610,munich indie,delete
+4611,uruguayan indie,delete
+4612,lagu bali,delete
+4613,japanese psychedelic rock,delete
+4614,rogaland indie,delete
+4615,modern downshift,delete
+4616,neue volksmusik,delete
+4617,covertrance,delete
+4618,russian viral rap,delete
+4619,new jack smooth,delete
+4620,neru,delete
+4621,milwaukee hip hop,rap/hiphop
+4622,malaysian hip hop,delete
+4623,singaporean hip hop,delete
+4624,georgian pop,delete
+4625,deutsch disney,delete
+4626,vietnamese traditional,delete
+4627,puerto rican indie,delete
+4628,belgian modern jazz,delete
+4629,japanese celtic,delete
+4630,cdmx indie,indie
+4631,indonesian emo rap,delete
+4632,medimeisterschaften,delete
+4633,disney portugues brasil,delete
+4634,moroccan traditional,delete
+4635,irish experimental,delete
+4636,chanson virale,delete
+4637,australian hardcore,delete
+4638,musica infantil catala,delete
+4639,french psychedelic,delete
+4640,italian folk,folk
+4641,san antonio indie,indie
+4642,scottish smallpipe,delete
+4643,atmospheric post-rock,rock
+4644,igbo worship,delete
+4645,acoustic opm,delete
+4646,bulgarian metal,delete
+4647,classic moroccan pop,delete
+4648,comedia,delete
+4649,heavy psych,delete
+4650,indian metal,delete
+4651,gujarati pop,delete
+4652,danish black metal,delete
+4653,irish black metal,delete
+4654,cameroonian hip hop,delete
+4655,cameroonian pop,delete
+4656,bikutsi,delete
+4657,metal baiano,delete
+4658,trap tuga,trap
+4659,bloco,delete
+4660,samba reggae,reggae
+4661,lesen,delete
+4662,brazilian metalcore,delete
+4663,turkish black metal,delete
+4664,greenlandic pop,delete
+4665,ritual ambient,delete
+4666,faroese jazz,delete
+4667,czech indie,delete
+4668,electronica cristiana,electro
+4669,flemish folk,folk
+4670,kleinkunst,delete
+4671,punk euskera,delete
+4672,campursari,delete
+4673,deep pop emo,delete
+4674,weightless,delete
+4675,experimental electronic,electro
+4676,galician indie,delete
+4677,kenyan traditional,delete
+4678,spoken word,delete
+4679,rap guarulhense,delete
+4680,montenegrin pop,delete
+4681,djembe,delete
+4682,hong kong hip hop,delete
+4683,musica indigena mexicana,delete
+4684,bornesange,delete
+4685,taiwan rock,delete
+4686,taiwanese indie,delete
+4687,columbus ohio indie,indie
+4688,college a cappella,delete
+4689,indie queretano,delete
+4690,nyahbinghi,delete
+4691,disney italiano,delete
+4692,irish gaelic folk,folk
+4693,folk cantabria,folk
+4694,indonesian pop punk,delete
+4695,danish folk,folk
+4696,indie napoletano,delete
+4697,deep indie rock,rock
+4698,old school nederhop,delete
+4699,armenian pop,delete
+4700,electronica peruana,electro
+4701,peruvian indie,delete
+4702,folklore nuevo argentino,folk
+4703,somali pop,delete
+4704,tamaulipas indie,delete
+4705,metal paranaense,delete
+4706,nyc metal,hardcore_rock
+4707,funk consciente,funk
+4708,funk paulista,funk
+4709,baltic classical piano,delete
+4710,cyber metal,hardcore_rock
+4711,slovenian metal,delete
+4712,skinhead oi,delete
+4713,bolivian metal,delete
+4714,maskandi,delete
+4715,euskal metal,delete
+4716,varmland rock,delete
+4717,rap algerien,delete
+4718,minimal synth,delete
+4719,boston electronic,electro
+4720,german death metal,delete
+4721,indie cantabria,delete
+4722,nova musica maranhense,delete
+4723,funk das antigas,funk
+4724,funk melody,funk
+4725,london on indie,indie
+4726,polish punk,delete
+4727,musica etnica,delete
+4728,tarantella,delete
+4729,panamanian indie,delete
+4730,panamanian rock,delete
+4731,arab trap,trap
+4732,french garage rock,delete
+4733,tatar pop,delete
+4734,batak,delete
+4735,finnish jazz,delete
+4736,haur kantak,delete
+4737,gyerekdalok,delete
+4738,lawrence ks indie,indie
+4739,portuguese rock,delete
+4740,american 21st century classical,delete
+4741,irish modern jazz,delete
+4742,afrobeat brasileiro,delete
+4743,brass band brasileiro,delete
+4744,band organ,delete
+4745,slovenian folk,folk
+4746,brazilian punk rock,delete
+4747,rock campineiro,delete
+4748,deep surf music,delete
+4749,dublin indie,indie
+4750,gospel reggae,gospel
+4751,uk drill,delete
+4752,estonian electronic,electro
+4753,korean electronic,electro
+4754,bajki,delete
+4755,kansai indie,delete
+4756,junior songfestival,delete
+4757,rva indie,delete
+4758,viet instrumental,delete
+4759,welsh hip hop,delete
+4760,vintage western,delete
+4761,grunge brasileiro,delete
+4762,orquesta cubana,delete
+4763,turkce remix,delete
+4764,german indie rock,delete
+4765,spanish electropop,electro
+4766,guatemalan indie,delete
+4767,t-pop girl group,delete
+4768,deep neofolk,folk
+4769,reggae tuga,reggae
+4770,musique touareg,delete
+4771,belo horizonte indie,delete
+4772,maracatu,delete
+4773,trap metal italiana,delete
+4774,czech pop,delete
+4775,serbian alternative rock,delete
+4776,rap uruguayo,delete
+4777,emoviolence,delete
+4778,oromo pop,delete
+4779,sheilat,delete
+4780,pennsylvania hardcore,delete
+4781,hengelliset laulut,delete
+4782,grunge revival,delete
+4783,cifteli,delete
+4784,tallava,delete
+4785,black metal argentino,delete
+4786,portuguese experimental,delete
+4787,estonian jazz,delete
+4788,korean superband,delete
+4789,cardiff indie,delete
+4790,euskal musica,delete
+4791,tamil hip hop,delete
+4792,malaysian tamil pop,delete
+4793,korean indie folk,folk
+4794,gaita,delete
+4795,galician folk,folk
+4796,rotterdam indie,delete
+4797,edinburgh indie,delete
+4798,karadeniz turkuleri,delete
+4799,tulum,delete
+4800,pinoy alternative rap,delete
+4801,portuguese contemporary classical,delete
+4802,zikir,delete
+4803,neo-psicodelia brasileira,delete
+4804,polish indie rock,delete
+4805,gulf hip hop,delete
+4806,noel quebecois,delete
+4807,polish noise rock,delete
+4808,chinese metal,delete
+4809,glass,delete
+4810,uk beatdown,delete
+4811,rosario indie,delete
+4812,sonora indie,indie
+4813,irish trap,trap
+4814,irish drill,delete
+4815,kelowna bc indie,delete
+4816,baton rouge indie,delete
+4817,classic luk thung,delete
+4818,swazi traditional,delete
+4819,nova musica amazonense,delete
+4820,socal indie,indie
+4821,alpine yodeling,delete
+4822,zillertal,delete
+4823,western saharan folk,folk
+4824,indie curitibano,delete
+4825,brazilian house,delete
+4826,indie rock peruano,delete
+4827,indie trujillano,delete
+4828,bangalore indie,delete
+4829,sarangi,delete
+4830,blues band,delete
+4831,finlandssvenska musik,delete
+4832,caribbean metal,delete
+4833,jugendchor,delete
+4834,bohemian baroque,delete
+4835,newcastle indie,indie
+4836,finnish worship,delete
+4837,singaporean indie,delete
+4838,ostrock,delete
+4839,funk evangelico,funk
+4840,russian reggae,reggae
+4841,poznan indie,indie
+4842,german viral rap,delete
+4843,german blues,delete
+4844,malawian folk,folk
+4845,iowa hip hop,rap/hiphop
+4846,british country,delete
+4847,mezmur,delete
+4848,taarab,delete
+4849,lithuanian metal,delete
+4850,instrumental death metal,hardcore_rock
+4851,montana metal,hardcore_rock
+4852,ukrainian black metal,delete
+4853,ukrainian metal,delete
+4854,metal gotico,delete
+4855,tar,delete
+4856,texas hardcore,delete
+4857,chilean black metal,delete
+4858,indonesian experimental,delete
+4859,modern psychedelic folk,folk
+4860,commons,delete
+4861,polish free jazz,delete
+4862,classic greek rock,delete
+4863,orebro indie,delete
+4864,musica cearense,delete
+4865,springfield mo indie,indie
+4866,chechen pop,delete
+4867,belgian blues,delete
+4868,hakkapop,delete
+4869,taiwanese indigenous,delete
+4870,australian indie rock,delete
+4871,bayerischer rap,delete
+4872,phleng phuea chiwit,delete
+4873,reggaeton mexicano,latin
+4874,dutch cabaret,delete
+4875,hardingfele,delete
+4876,norwegian folk,folk
+4877,musica calabrese,delete
+4878,rap sergipano,delete
+4879,nz christian,delete
+4880,blues-rock guitar,delete
+4881,afro r&b,rnb
+4882,groove gospel,gospel
+4883,reggae cristao,reggae
+4884,surinamese pop,delete
+4885,german alternative rap,delete
+4886,argentine indie rock,delete
+4887,myanmar hip hop,delete
+4888,hip hop boliviano,delete
+4889,noisecore,delete
+4890,cork indie,delete
+4891,middle east hip hop,delete
+4892,northwest china indie,delete
+4893,kyrgyz pop,delete
+4894,czsk reggae,reggae
+4895,greek trap,trap
+4896,greek hip hop,delete
+4897,stockholm indie,delete
+4898,swedish psychedelic rock,delete
+4899,singing bowl,delete
+4900,japanese hardcore,delete
+4901,japanese melodic punk,delete
+4902,powwow,delete
+4903,capoeira,delete
+4904,tsukiuta,delete
+4905,italian experimental,delete
+4906,baltic folk,folk
+4907,skweee,delete
+4908,norwegian techno,delete
+4909,pilates,delete
+4910,bohol indie,delete
+4911,baptist gospel,gospel
+4912,granada indie,delete
+4913,missouri indie,indie
+4914,australian post-rock,delete
+4915,indie psychedelic rock,rock
+4916,finnish trap,trap
+4917,louvor icm,delete
+4918,afrikaans gospel,gospel
+4919,hungarian underground rap,delete
+4920,alternative ccm,delete
+4921,south sudanese pop,delete
+4922,finnish new wave,delete
+4923,hong kong tv drama,delete
+4924,albany ny indie,indie
+4925,serbian folk,folk
+4926,musica baiana,delete
+4927,mexican post-rock,delete
+4928,classic nepali pop,delete
+4929,aberdeen indie,indie
+4930,psicodelia mexicana,delete
+4931,malawian pop,delete
+4932,mahraganat,delete
+4933,pagode novo,delete
+4934,chaabi marocain,delete
+4935,48g,delete
+4936,french stoner rock,delete
+4937,psychedelic space rock,delete
+4938,florida hardcore,delete
+4939,portuguese black metal,delete
+4940,christian symphonic metal,delete
+4941,unblack metal,hardcore_rock
+4942,finnish metalcore,delete
+4943,new england experimental,delete
+4944,belgian experimental,delete
+4945,deep chill-out,delete
+4946,thai traditional,delete
+4947,musica portuguesa contemporanea,delete
+4948,musique traditionnelle congolaise,delete
+4949,belarusian hip hop,delete
+4950,persian rock,delete
+4951,telugu worship,delete
+4952,lincoln ne indie,indie
+4953,metal tico,delete
+4954,belgian hardcore,delete
+4955,deep downtempo fusion,delete
+4956,rap mocambicana,delete
+4957,rap salvadoreno,delete
+4958,botswanan pop,delete
+4959,hangoskonyvek,delete
+4960,dutch singer-songwriter,delete
+4961,spanish indie folk,folk
+4962,portuguese metal,delete
+4963,nohay,delete
+4964,cologne hip hop,rap/hiphop
+4965,coptic hymn,delete
+4966,magyar kabare,delete
+4967,rhythm and boogie,delete
+4968,nitzhonot,delete
+4969,singaporean punk,delete
+4970,australian singer-songwriter,delete
+4971,dutch punk,delete
+4972,wisconsin indie,indie
+4973,brisbane indie,indie
+4974,finnish post-punk,delete
+4975,marimba de guatemala,delete
+4976,pontian folk,folk
+4977,lowlands hardcore,delete
+4978,finnish pop punk,delete
+4979,islamic recitation,delete
+4980,quran,delete
+4981,serbian metal,delete
+4982,polish thrash metal,delete
+4983,australian thrash metal,hardcore_rock
+4984,italian pop punk,delete
+4985,sludgecore,delete
+4986,dutch experimental,delete
+4987,chill beats,delete
+4988,experimental poetry,delete
+4989,modern chamber music,delete
+4990,taiko,delete
+4991,spanish experimental,delete
+4992,african experimental,delete
+4993,kyrgyz traditional,delete
+4994,8d,delete
+4995,experimental techno,delete
+4996,swiss experimental,delete
+4997,chill-out trance,delete
+4998,deep hardcore,delete
+4999,fife and drum,delete
+5000,baja indie,delete
+5001,christian dance,dance
+5002,classical jazz fusion,jazz
+5003,musica sul-mato-grossense,delete
+5004,chant religieux,delete
+5005,bisaya indie,delete
+5006,prank,delete
+5007,bodo pop,delete
+5008,burundian pop,delete
+5009,drill tuga,delete
+5010,rap criolo,delete
+5011,rap angolano,delete
+5012,spanish reggae,reggae
+5013,musica istmena,delete
+5014,polish modern jazz,delete
+5015,gay chorus,delete
+5016,albanian hip hop,delete
+5017,indonesian black metal,delete
+5018,amapiano,delete
+5019,dizi,delete
+5020,yemeni pop,delete
+5021,talentos brasileiros,delete
+5022,chilean metal,delete
+5023,polish alternative rap,delete
+5024,sungura,delete
+5025,disney horspiele,delete
+5026,melodic doom,delete
+5027,seinen,delete
+5028,ancient mediterranean,delete
+5029,post-punk colombiano,delete
+5030,bern indie,delete
+5031,dominican indie,indie
+5032,spanish electronic,electro
+5033,zurich indie,delete
+5034,latvian rock,delete
+5035,indian lo-fi,delete
+5036,tanzlmusi,delete
+5037,deep indie pop,indie
+5038,psychedelic jazz fusion,jazz
+5039,muzica copii,delete
+5040,trallalero,delete
+5041,latin viral rap,delete
+5042,folk brasileiro,folk
+5043,indian instrumental rock,delete
+5044,vintage swoon,delete
+5045,russian folk metal,delete
+5046,ugandan traditional,delete
+5047,swedish fiddle,delete
+5048,eritrean pop,delete
+5049,punk colombiano,delete
+5050,german rockabilly,delete
+5051,trondheim indie,delete
+5052,german post-hardcore,delete
+5053,russian black metal,delete
+5054,lithuanian indie,delete
+5055,musica rondoniense,delete
+5056,french dnb,delete
+5057,synthwave brasileiro,delete
+5058,er ge,delete
+5059,northeast indian indie,delete
+5060,australian techno,edm
+5061,deep german indie,indie
+5062,neapolitan funk,funk
+5063,peruvian experimental,delete
+5064,rwandan hip hop,delete
+5065,hip hop galsen,delete
+5066,funk bh,funk
+5067,dansei seiyu,delete
+5068,trap cristiano,trap
+5069,mexican hardcore,delete
+5070,punk mexicano,delete
+5071,gumbe,delete
+5072,swiss worship,delete
+5073,szanty,delete
+5074,rock catarinense,delete
+5075,polish hardcore,delete
+5076,british math rock,rock
+5077,musique peule,delete
+5078,ukrainian experimental,delete
+5079,starmyu,delete
+5080,detske pesnicky,delete
+5081,birthday,delete
+5082,musica rapa nui,delete
+5083,japanese beats,delete
+5084,papuan traditional,delete
+5085,bangladeshi indie,delete
+5086,chennai indie,delete
+5087,dragspel,delete
+5088,greek jazz,delete
+5089,afrikaans folk,folk
+5090,vgm remix,delete
+5091,russian synthpop,delete
+5092,turkish post-punk,delete
+5093,doujin,delete
+5094,classical bassoon,delete
+5095,indonesian viral pop,delete
+5096,lagu timur,delete
+5097,portuguese techno,delete
+5098,tijuana electronic,electro
+5099,deep hardcore punk,delete
+5100,new hampshire indie,indie
+5101,merida indie,delete
+5102,canadian post-punk,delete
+5103,ceilidh,delete
+5104,police band,delete
+5105,caucasian folk,folk
+5106,georgian polyphony,delete
+5107,anthem,delete
+5108,indian ambient,delete
+5109,rock potiguar,delete
+5110,burundian traditional,delete
+5111,lagu karo,delete
+5112,indonesian worship,delete
+5113,precure,delete
+5114,indie poblano,delete
+5115,rap chretien,delete
+5116,vaqueiro,delete
+5117,central american metal,delete
+5118,delaware indie,indie
+5119,rap toscana,delete
+5120,rap malien,delete
+5121,funk 150 bpm,funk
+5122,rock nica,delete
+5123,persian electronic,electro
+5124,christian deathcore,delete
+5125,technical grindcore,delete
+5126,deep liquid,delete
+5127,austrian indie,indie
+5128,shanghai indie,delete
+5129,japanese bedroom pop,asian pop
+5130,norwegian punk,delete
+5131,estonian folk,folk
+5132,viral pop brasileiro,delete
+5133,stateside dnb,delete
+5134,post-punk brasileiro,delete
+5135,swazi pop,delete
+5136,modern electroacoustic,electro
+5137,pakistani indie,delete
+5138,rock gotico,delete
+5139,psalmen,delete
+5140,deep filthstep,delete
+5141,nz children's music,delete
+5142,kyushu indie,delete
+5143,turkish reggae,reggae
+5144,finnish choir,delete
+5145,draaiorgel,delete
+5146,chinese viral pop,delete
+5147,aghani lil-atfal,delete
+5148,musica eletronica brasileira,delete
+5149,french folk,folk
+5150,musica londrinense,delete
+5151,kinderliedjies,delete
+5152,indie triste,delete
+5153,anime game,delete
+5154,portuguese early music,delete
+5155,dutch contemporary classical,delete
+5156,deep orgcore,delete
+5157,isle of man indie,indie
+5158,dessin anime,delete
+5159,aikatsu,delete
+5160,israeli indie,delete
+5161,trikiti,delete
+5162,maltese pop,delete
+5163,jazz catala,jazz
+5164,black noise,delete
+5165,electronicore,electro
+5166,rock nacional feminino,delete
+5167,punk tico,delete
+5168,norwegian hardcore,delete
+5169,kikuyu gospel,gospel
+5170,portuguese death metal,delete
+5171,reiki,delete
+5172,czech metal,delete
+5173,tongan pop,delete
+5174,nerdcore brasileiro,delete
+5175,vaikiskos dainos,delete
+5176,raw black metal,hardcore_rock
+5177,barnasogur,delete
+5178,vintage dutch pop,delete
+5179,finnish modern jazz,delete
+5180,austrian jazz,jazz
+5181,yuri,delete
+5182,uppsala indie,delete
+5183,limerick indie,delete
+5184,macedonian indie,delete
+5185,ghanaian gospel,gospel
+5186,football,delete
+5187,canto a tenore,delete
+5188,zither,delete
+5189,brazilian experimental,delete
+5190,breton folk,folk
+5191,uyghur folk,folk
+5192,twin cities indie,indie
+5193,fort wayne indie,indie
+5194,serbian indie,delete
+5195,french experimental rock,delete
+5196,indiana indie,indie
+5197,japanese rockabilly,delete
+5198,norman ok indie,delete
+5199,ok indie,indie
+5200,brazilian lo-fi rock,delete
+5201,landler,delete
+5202,appenzeller folk,folk
+5203,thai psychedelic,delete
+5204,guitar case,delete
+5205,himalayan folk,folk
+5206,latin american baroque,delete
+5207,canti alpini,delete
+5208,oslo indie,delete
+5209,tatar folk,folk
+5210,gotico brasileiro,delete
+5211,oberkrainer,delete
+5212,deep smooth r&b,delete
+5213,psytech,delete
+5214,korean jazz,delete
+5215,viet edm,delete
+5216,riddim dubstep,delete
+5217,instrumental progressive metal,hardcore_rock
+5218,drill espanol,delete
+5219,murga,delete
+5220,samba gospel,gospel
+5221,colombian black metal,delete
+5222,singaporean metal,delete
+5223,uk post-metal,hardcore_rock
+5224,norges stemme,delete
+5225,metal balear,delete
+5226,mexican experimental,delete
+5227,czech electronic,electro
+5228,maltese metal,delete
+5229,gochiusa,delete
+5230,northamptonshire indie,indie
+5231,london indie,indie
+5232,cornwall indie,indie
+5233,sami,delete
+5234,japanese ska,ska
+5235,samurai trap,trap
+5236,rock sul-mato-grossense,delete
+5237,cancoes infantis,delete
+5238,melodipop,delete
+5239,dresden indie,delete
+5240,kawaii edm,delete
+5241,fan chant,delete
+5242,scottish hip hop,delete
+5243,finnish blues,delete
+5244,irish underground rap,delete
+5245,faroese folk,folk
+5246,canadian garage rock,rock
+5247,rock mineiro,delete
+5248,icelandic hip hop,delete
+5249,latvian electronic,electro
+5250,belarusian punk,delete
+5251,belarusian rock,delete
+5252,australian rockabilly,delete
+5253,vinahouse,delete
+5254,r&b argentino,delete
+5255,warrington indie,indie
+5256,dutch idol pop,delete
+5257,gotlandsk musik,delete
+5258,kenyan alternative,delete
+5259,finnish psychedelic rock,delete
+5260,chill baile,delete
+5261,hard motivation,delete
+5262,musica eletronica gospel,gospel
+5263,ukrainian indie,delete
+5264,cornetas y tambores,delete
+5265,vietnamese hip hop,delete
+5266,peruvian death metal,delete
+5267,taiwan graduation song,delete
+5268,korean contemporary classical,delete
+5269,polish ambient,delete
+5270,ringtone,delete
+5271,kannada hip hop,delete
+5272,windsor on indie,indie
+5273,lagu sunda,delete
+5274,chinese post-rock,delete
+5275,rap ecuatoriano,delete
+5276,trio batak,delete
+5277,semarang indie,delete
+5278,lancashire indie,indie
+5279,hungarian indie,delete
+5280,musica catarinense,delete
+5281,indie tucumano,delete
+5282,industrial noise,delete
+5283,nhac thieu nhi,delete
+5284,luxembourgian indie,delete
+5285,bisaya rap,delete
+5286,greek underground rap,delete
+5287,chinese folk,folk
+5288,gwoka,delete
+5289,buffalo hip hop,rap/hiphop
+5290,indonesian neo-psychedelia,delete
+5291,karadeniz pop,delete
+5292,trap pesado,trap
+5293,chinese worship,delete
+5294,baithak gana,delete
+5295,neo-trad doom metal,hardcore_rock
+5296,musica caririense,delete
+5297,leeds indie,indie
+5298,cincinnati indie,indie
+5299,pinoy metal,delete
+5300,rap pernambucano,delete
+5301,carnaval limburg,delete
+5302,korean worship,delete
+5303,connecticut indie,indie
+5304,sydney indie,delete
+5305,fussball,delete
+5306,faroese indie,delete
+5307,estonian hip hop,delete
+5308,rap underground colombiano,delete
+5309,romanian trap,trap
+5310,stl indie,indie
+5311,swiss indie folk,folk
+5312,australian blues,delete
+5313,wuhan indie,delete
+5314,kansas indie,indie
+5315,bergamo indie,delete
+5316,baps,delete
+5317,orquestas de galicia,delete
+5318,musica colombiana instrumental,delete
+5319,alte,delete
+5320,namibian pop,delete
+5321,albanian folk,folk
+5322,gothenburg hip hop,rap/hiphop
+5323,chinese opera,delete
+5324,utapri,delete
+5325,sevillanas,delete
+5326,mainland se asia metal,delete
+5327,russian metalcore,delete
+5328,grunge argentina,delete
+5329,metal nortista,delete
+5330,handbells,delete
+5331,horror punk brasileiro,delete
+5332,pittsburgh metal,hardcore_rock
+5333,belgian death metal,delete
+5334,tibetan mantra,delete
+5335,guqin,delete
+5336,indonesian folk,folk
+5337,new brunswick indie,indie
+5338,boeremusiek,delete
+5339,hard stoner rock,rock
+5340,frankfurt indie,delete
+5341,rap tuga underground,delete
+5342,belfast indie,delete
+5343,hamburg hip hop,rap/hiphop
+5344,rap tico,delete
+5345,dutch disney,delete
+5346,bogor indie,delete
+5347,musica blumenauense,delete
+5348,denver rap,rap/hiphop
+5349,volkstumliche musik,delete
+5350,liberian pop,delete
+5351,dainuojamoji poezija,delete
+5352,indie folk italiano,folk
+5353,french oi,delete
+5354,indie folk argentino,folk
+5355,memphis indie,indie
+5356,bangladeshi hip hop,delete
+5357,indonesian city pop,delete
+5358,mizo pop,delete
+5359,manipuri pop,delete
+5360,tamil indie,delete
+5361,kollywood,delete
+5362,marathi devotional,delete
+5363,kannada pop,delete
+5364,indian underground rap,delete
+5365,pakistani rock,delete
+5366,himachali pop,delete
+5367,classic konkani pop,delete
+5368,umea hardcore,delete
+5369,russian screamo,delete
+5370,indonesian folk pop,folk
+5371,norrbotten indie,delete
+5372,swedish pop rap,delete
+5373,instrumental djent,delete
+5374,russian old school hip hop,delete
+5375,folklore surero,folk
+5376,marathi hip hop,delete
+5377,cantautora argentina,delete
+5378,weirdcore,delete
+5379,canadian trap,trap
+5380,underground boom bap,delete
+5381,romanian house,delete
+5382,classic romanian pop,delete
+5383,mgpjr,delete
+5384,swedish melodeath,delete
+5385,golden age hip hop,rap/hiphop
+5386,muzica usoara,delete
+5387,cumbia del sureste,delete
+5388,banda jalisciense,delete
+5389,norrlandsk hip hop,delete
+5390,afro-cuban percussion,delete
+5391,kazakh hip hop,delete
+5392,hip-hop experimental,rap/hiphop
+5393,icelandic singer-songwriter,delete
+5394,sunnlensk tonlist,delete
+5395,balkan beats,delete
+5396,folklore cuyano,folk
+5397,musica michoacana,delete
+5398,german prog,delete
+5399,zamba,delete
+5400,german jazz rap,delete
+5401,cumbia sonorense,delete
+5402,lo-fi jazzhop,jazz
+5403,turkce slow sarkilar,delete
+5404,german boom bap,delete
+5405,canadian underground hip hop,rap/hiphop
+5406,jazzcore,jazz
+5407,belgian electronic,electro
+5408,upstate ny rap,rap/hiphop
+5409,oldschool deutschrap,delete
+5410,talentkonkurranse,delete
+5411,musica tabasquena,delete
+5412,plugg,delete
+5413,cuatro puertorriqueno,delete
+5414,fado antigo,delete
+5415,fado de coimbra,delete
+5416,fado instrumental,delete
+5417,tropical tecladista,delete
+5418,salon music,delete
+5419,kids hip hop,delete
+5420,sasscore,delete
+5421,grunneger muziek,delete
+5422,koligeet,delete
+5423,baltic post-punk,delete
+5424,doomgaze,delete
+5425,dissonant death metal,hardcore_rock
+5426,romanian black metal,delete
+5427,alandsk musik,delete
+5428,canadian drill,delete
+5429,sierra leonean pop,delete
+5430,central asian hip hop,delete
+5431,high-tech minimal,delete
+5432,turkish deep house,delete
+5433,saxophone trio,delete
+5434,kalmar indie,delete
+5435,raga rock,delete
+5436,piratenmuziek,delete
+5437,guyanese pop,delete
+5438,dancehall guyanaise,delete
+5439,musica wixarika,delete
+5440,drill italiana,delete
+5441,trap antillais,trap
+5442,musique tahitienne,delete
+5443,ambient post-rock,rock
+5444,pacific islands pop,delete
+5445,schrammelmusik,delete
+5446,melanesian pop,delete
+5447,muzica etno,delete
+5448,friese muziek,delete
+5449,kyrgyz hip hop,delete
+5450,icelandic post-punk,delete
+5451,icelandic punk,delete
+5452,sinhala edm,delete
+5453,slowed and reverb,delete
+5454,trap kreyol,trap
+5455,dutch stoner rock,delete
+5456,grungegaze,delete
+5457,nordic shoegaze,delete
+5458,syrian hip hop,delete
+5459,symphonic deathcore,delete
+5460,downtempo deathcore,delete
+5461,symfonicky orchestr,delete
+5462,muzica bisericeasca,delete
+5463,orkiestra symfoniczna,delete
+5464,czech singer-songwriter,delete
+5465,slovak punk,delete
+5466,czech folk rock,delete
+5467,deep progressive rock,rock
+5468,russian modern jazz,delete
+5469,chinese talent show,delete
+5470,sambalpuri pop,delete
+5471,dancefloor dnb,delete
+5472,guitarra mexicana,delete
+5473,salsa urbana,delete
+5474,czech pop rock,delete
+5475,guitarra andina,delete
+5476,anime rap,delete
+5477,vintage broadway,delete
+5478,czech hardcore,delete
+5479,turkce kadin rap,delete
+5480,tahitian traditional,delete
+5481,konkani pop,delete
+5482,dream smp,delete
+5483,uk bass,delete
+5484,magyar retro dance,delete
+5485,contemporary r&b,rnb
+5486,piano house,delete
+5487,musica nublensina,delete
+5488,psicodelia chilena,delete
