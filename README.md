@@ -1,7 +1,7 @@
 
 # My Capstone Site
 
-https://sammygfish.github.io/capstoneproject/
+https://SamGarciaMSc.github.io/capstoneproject/
 
 ## Project Introduction
 
